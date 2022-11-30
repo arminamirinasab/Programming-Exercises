@@ -1,0 +1,5 @@
+C:\wamp\www\Programming-Exercises\Excercises\Console\MathGame\MathGame\obj\Debug\MathGame.csprojResolveAssemblyReference.cache
+C:\wamp\www\Programming-Exercises\Excercises\Console\MathGame\MathGame\bin\Debug\MathGame.exe
+C:\wamp\www\Programming-Exercises\Excercises\Console\MathGame\MathGame\bin\Debug\MathGame.pdb
+C:\wamp\www\Programming-Exercises\Excercises\Console\MathGame\MathGame\obj\Debug\MathGame.exe
+C:\wamp\www\Programming-Exercises\Excercises\Console\MathGame\MathGame\obj\Debug\MathGame.pdb
