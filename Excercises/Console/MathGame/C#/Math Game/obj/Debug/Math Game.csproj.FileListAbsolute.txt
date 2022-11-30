@@ -1,5 +1,0 @@
-C:\WindowsApplications\Math Game\Math Game\bin\Debug\Math Game.exe
-C:\WindowsApplications\Math Game\Math Game\bin\Debug\Math Game.pdb
-C:\WindowsApplications\Math Game\Math Game\obj\Debug\Math Game.csprojResolveAssemblyReference.cache
-C:\WindowsApplications\Math Game\Math Game\obj\Debug\Math Game.exe
-C:\WindowsApplications\Math Game\Math Game\obj\Debug\Math Game.pdb
