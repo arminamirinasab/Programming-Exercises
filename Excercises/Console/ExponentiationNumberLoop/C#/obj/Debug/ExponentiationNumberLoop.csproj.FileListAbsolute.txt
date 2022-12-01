@@ -1,0 +1,10 @@
+C:\wamp\www\Programming-Exercises\Excercises\Console\ExponentiationNumberLoop\bin\Debug\ExponentiationNumberLoop.exe
+C:\wamp\www\Programming-Exercises\Excercises\Console\ExponentiationNumberLoop\bin\Debug\ExponentiationNumberLoop.pdb
+C:\wamp\www\Programming-Exercises\Excercises\Console\ExponentiationNumberLoop\obj\Debug\ExponentiationNumberLoop.csprojResolveAssemblyReference.cache
+C:\wamp\www\Programming-Exercises\Excercises\Console\ExponentiationNumberLoop\obj\Debug\ExponentiationNumberLoop.exe
+C:\wamp\www\Programming-Exercises\Excercises\Console\ExponentiationNumberLoop\obj\Debug\ExponentiationNumberLoop.pdb
+C:\wamp\www\Programming-Exercises\Excercises\Console\ExponentiationNumberLoop\C#\bin\Debug\ExponentiationNumberLoop.exe
+C:\wamp\www\Programming-Exercises\Excercises\Console\ExponentiationNumberLoop\C#\bin\Debug\ExponentiationNumberLoop.pdb
+C:\wamp\www\Programming-Exercises\Excercises\Console\ExponentiationNumberLoop\C#\obj\Debug\ExponentiationNumberLoop.csprojResolveAssemblyReference.cache
+C:\wamp\www\Programming-Exercises\Excercises\Console\ExponentiationNumberLoop\C#\obj\Debug\ExponentiationNumberLoop.exe
+C:\wamp\www\Programming-Exercises\Excercises\Console\ExponentiationNumberLoop\C#\obj\Debug\ExponentiationNumberLoop.pdb

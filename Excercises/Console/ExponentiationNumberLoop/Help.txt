@@ -1,0 +1,1 @@
+Write a program that receives two values from the user in an infinite loop and exponentiates it
