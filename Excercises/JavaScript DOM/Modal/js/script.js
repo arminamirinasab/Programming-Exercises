@@ -12,11 +12,13 @@ section.style.filter = "blur(10px)";
 X.addEventListener("click" , function() {
     X.parentElement.parentElement.style.display = "none";
     section.style.filter = "inherit";
+    modalButton.blur();
 })
 // Close With ESC Key
 window.addEventListener("keyup" , function(e) {
     if(e.key === "Escape") {
         X.parentElement.parentElement.style.display = "none";
         section.style.filter = "inherit";
+        modalButton.blur();
     }
 })
