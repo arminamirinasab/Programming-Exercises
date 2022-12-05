@@ -1,0 +1,1 @@
+Write a program that generates two random numbers based on an infinite loop and receives their sum from the user, if the answer is correct it increases the score and otherwise it decreases the score. By default, the user's score is 10, if it reaches 20, the user wins, and if it reaches 0, the user loses.

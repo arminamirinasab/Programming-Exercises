@@ -1,0 +1,1 @@
+Write a note app that can set the color for each note and notes can be deleted with a click, no need to save.

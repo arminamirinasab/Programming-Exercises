@@ -1,0 +1,27 @@
+/* Don't care about CSS codes */
+
+* {
+    margin: 0;
+    padding: 0;
+    text-transform: capitalize;
+    color: #333;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-shadow: 1px 1px 10px #EEE;
+    cursor: none;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: aliceblue;
+    overflow: none;
+}
+
+#cursor {
+    position: absolute;
+    margin-left: -10px;
+    pointer-events: none;
+}

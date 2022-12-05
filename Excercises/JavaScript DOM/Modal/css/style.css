@@ -1,0 +1,93 @@
+/* Don't Care CSS */
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+body {
+  background: rgba(19, 19, 23, 0.9);
+}
+section {
+  background-image: linear-gradient(
+      rgba(17, 17, 17, 0.505),
+      rgba(17, 17, 17, 0.703)
+    ),
+    url("https://images.unsplash.com/photo-1555944368-c9c28e05fab9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1164&q=80");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  width: 100%;
+  /* filter: blur(6px); */
+}
+.center {
+  color: white;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+h1 {
+  text-align: center;
+  font-size: 40px;
+  margin: 40px;
+  text-transform: capitalize;
+}
+button {
+  margin: 0 auto;
+  height: 60px;
+  width: 500px;
+  background: #5454ff;
+  border: none;
+  border-radius: 6px;
+  font-size: 25px;
+  color: #000;
+  cursor: pointer;
+}
+
+.modal-parent {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  width: 100%;
+  display: none;
+}
+.modal {
+  background: white;
+  width: 70%;
+  padding: 30px;
+  border-radius: 6px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 22px;
+  font-family: arial;
+  position: relative;
+  animation: 0.5s drop;
+}
+
+.modal p {
+  line-height: 1.5em;
+}
+
+@keyframes drop {
+  0% {
+    top: -100px;
+  }
+  100% {
+    top: 50%;
+  }
+}
+.X {
+  position: absolute;
+  right: 20px;
+  top: 5px;
+  font-size: 40px;
+  cursor: pointer;
+}
+section {
+  transition: 1s;
+}

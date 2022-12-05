@@ -1,0 +1,1 @@
+Create a modal window that opens when you click a button and closes after opening using the X icon or ESC key.

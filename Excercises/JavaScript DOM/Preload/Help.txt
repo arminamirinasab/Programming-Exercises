@@ -1,0 +1,1 @@
+Add an animation before the page loads and remove it after it loads
