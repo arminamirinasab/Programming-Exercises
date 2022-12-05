@@ -1,0 +1,1 @@
+Create a transparent header, we want the menu to change when the user exits the transparent header.
