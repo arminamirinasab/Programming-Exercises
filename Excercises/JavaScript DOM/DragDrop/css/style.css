@@ -1,0 +1,34 @@
+/* Don't care about CSS codes */
+
+* {
+    margin: 0;
+    padding: 0;
+    text-transform: capitalize;
+    color: #333;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-shadow: 1px 1px 10px #EEE;
+    user-select: none;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 100vh;
+    background-color: aliceblue;
+}
+
+h1 {
+    margin: 20px;
+    font-size: 40px;
+}
+
+div#drop {
+height: 90%;
+width: 45%;
+border: 10px dashed royalblue;
+}
+
+div#drag {
+    width: 45%;
+}
