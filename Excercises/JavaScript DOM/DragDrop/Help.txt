@@ -1,0 +1,1 @@
+We have three texts and we want the user to be able to place these texts in a div (by dragging and dropping).

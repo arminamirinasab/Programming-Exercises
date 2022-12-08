@@ -1,0 +1,1 @@
+Have a simple input that adds a task using the enter key
