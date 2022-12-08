@@ -1,0 +1,1 @@
+We create a night mode based on CSS, we want to activate the dark mode by toggling the class and save this state in the localstorage;
