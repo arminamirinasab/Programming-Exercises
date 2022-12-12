@@ -3,6 +3,14 @@ const $ = document,
   addBtn = $.getElementById("addBtn"),
   noStatus = $.getElementById("noStatus"),
   Status = $.getElementsByClassName("status");
+// Remove Task Function
+function removeTask(event) {
+  event.target.parentElement.remove();
+}
+// Send Drag Data Function
+function sendDragData(event) {
+  event.dataTransfer.setData("elem", event.target.id);
+}
 // ID Index To Create Unique ID
 let idIndex = 0;
 // Add To Do Event
@@ -13,34 +21,12 @@ addBtn.addEventListener("click", function () {
   const userInput = prompt("Enter Your To Do Name:");
   // Check Value
   if (userInput) {
-    // Create To Do Element
-    const toDoElem = $.createElement("div");
-    // Assign Class For Styles
-    toDoElem.classList.add("todo");
-    // Add Draggable Attribute
-    toDoElem.draggable = true;
-    // Add Unique ID For Select In Drop
-    toDoElem.id = "todo" + idIndex;
-    // Send Value To Element
-    toDoElem.innerHTML = userInput;
-    // Create X Icon
-    const toDoX = $.createElement("span");
-    // Assign Class For Styles
-    toDoX.classList.add("close");
-    // Send X To Element
-    toDoX.innerHTML = "&times;";
-    // Close Event To Remove To Do
-    toDoX.addEventListener("click", function (e) {
-      e.target.parentElement.remove();
-    });
-    // Add Drag Start Event To Send ID To Data Transfer
-    toDoElem.addEventListener("dragstart", function (e) {
-      e.dataTransfer.setData("elem", e.target.id);
-    });
-    // Append Elements
-    toDoElem.appendChild(toDoX);
-    noStatus.appendChild(toDoElem);
-    // Alert Error For Empty Value
+    // Create HTML Element & Assign Functions
+    noStatus.insertAdjacentHTML(
+      "beforeend",
+      `<div ondragstart="sendDragData(event)" id="todo${idIndex}" class="todo"
+     draggable="true">${userInput}<span class="close" onclick="removeTask(event)">&times;</span></div>`
+    );
   } else {
     alert("You Should Type Your Task Name :/");
   }
