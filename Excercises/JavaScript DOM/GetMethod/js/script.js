@@ -4,7 +4,7 @@ const getMethodData = location.search;
 let data = getMethodData;
 // Split Data Like username=Armin
 data = data.slice(1, data.length);
-data = data.split(",");
+data = data.split("&");
 // Split Data To Key | Value
 let dataArray = [];
 for (let i = 0; i < data.length; i++) {
@@ -22,5 +22,5 @@ console.table(dataArray);
 if (getMethodData) {
   alert("Open Console To See The Result");
 } else {
-  location.href += "?username=Armin,password=12345678";
+  location.href += "?username=Armin&password=12345678";
 }
