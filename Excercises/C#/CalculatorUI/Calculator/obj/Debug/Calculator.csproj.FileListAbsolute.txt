@@ -1,0 +1,8 @@
+c:\users\armin\documents\visual studio 2012\Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+c:\users\armin\documents\visual studio 2012\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+c:\users\armin\documents\visual studio 2012\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+c:\users\armin\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+c:\users\armin\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+c:\users\armin\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+c:\users\armin\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+c:\users\armin\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
