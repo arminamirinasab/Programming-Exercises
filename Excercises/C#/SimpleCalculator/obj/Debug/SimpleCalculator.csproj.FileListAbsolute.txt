@@ -1,0 +1,9 @@
+C:\wamp\www\Programming Exercises\Excercises\C#\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+C:\wamp\www\Programming Exercises\Excercises\C#\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+C:\wamp\www\Programming Exercises\Excercises\C#\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+C:\wamp\www\Programming Exercises\Excercises\C#\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+C:\wamp\www\Programming Exercises\Excercises\C#\SimpleCalculator\obj\Debug\SimpleCalculator.Form1.resources
+C:\wamp\www\Programming Exercises\Excercises\C#\SimpleCalculator\obj\Debug\SimpleCalculator.Properties.Resources.resources
+C:\wamp\www\Programming Exercises\Excercises\C#\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.GenerateResource.Cache
+C:\wamp\www\Programming Exercises\Excercises\C#\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+C:\wamp\www\Programming Exercises\Excercises\C#\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
