@@ -34,7 +34,7 @@ body {
 }
 .product-card p {
   font-size: 13px;
-  color: #bbb;
+  color: rgb(151, 151, 151);
 }
 .product-pic {
   /* background-image: url(../images/1.png); */
@@ -87,12 +87,12 @@ body {
   align-items: center;
 }
 .product-price {
-  color: #7ed6df;
+  color: #0969da;
   font-size: 26px;
 }
 .product-button {
   margin-left: auto;
-  color: #7ed6df;
+  color: #0969da;
   text-decoration: none;
   border: 2px solid;
   padding: 8px 24px;
@@ -103,3 +103,4 @@ body {
 .product-button:hover {
   transform: scale(1.06);
 }
+

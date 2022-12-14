@@ -26,9 +26,12 @@
 }
 
 .navbar {
-  width: 100%;
   background-color: #ccc;
   padding: 40px;
+}
+
+img  {
+  border-radius: 10px;
 }
 
 .navbar button {
@@ -36,4 +39,14 @@
   width: 100px;
   font-size: 20px;
   background: none;
+}
+
+#back {
+  cursor: pointer;
+}
+
+#prPrice {
+  font-size: 25px;
+  font-weight: bold;
+  color: #0969da;
 }
