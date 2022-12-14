@@ -1,0 +1,9 @@
+C:\wamp\www\Programming Exercises\Excercises\C#\AreYouStupied\AreUStupied\bin\Debug\AreUStupied.exe.config
+C:\wamp\www\Programming Exercises\Excercises\C#\AreYouStupied\AreUStupied\bin\Debug\AreUStupied.exe
+C:\wamp\www\Programming Exercises\Excercises\C#\AreYouStupied\AreUStupied\bin\Debug\AreUStupied.pdb
+C:\wamp\www\Programming Exercises\Excercises\C#\AreYouStupied\AreUStupied\obj\Debug\AreUStupied.csprojResolveAssemblyReference.cache
+C:\wamp\www\Programming Exercises\Excercises\C#\AreYouStupied\AreUStupied\obj\Debug\AreUStupied.Properties.Resources.resources
+C:\wamp\www\Programming Exercises\Excercises\C#\AreYouStupied\AreUStupied\obj\Debug\AreUStupied.csproj.GenerateResource.Cache
+C:\wamp\www\Programming Exercises\Excercises\C#\AreYouStupied\AreUStupied\obj\Debug\AreUStupied.exe
+C:\wamp\www\Programming Exercises\Excercises\C#\AreYouStupied\AreUStupied\obj\Debug\AreUStupied.pdb
+C:\wamp\www\Programming Exercises\Excercises\C#\AreYouStupied\AreUStupied\obj\Debug\AreUStupied.mainForm.resources
