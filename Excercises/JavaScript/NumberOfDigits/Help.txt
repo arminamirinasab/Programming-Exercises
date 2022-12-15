@@ -1,0 +1,1 @@
+The number of digits of a number that is taken from the input. :)
