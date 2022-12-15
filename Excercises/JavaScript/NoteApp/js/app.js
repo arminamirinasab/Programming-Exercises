@@ -29,14 +29,17 @@ function addNote() {
   // Append
   noteContainer.appendChild(noteContent);
   listed.appendChild(noteContainer);
-  // Set Remove Event
-  noteContainer.addEventListener("click", function (e) {
-    e.target.parentElement.remove();
-  });
   // (Better Accessibility)
   inputField.value = "";
   inputField.focus();
 }
+
+// Set Remove Event
+listed.addEventListener("click", function (event) {
+  if (event.target.tagName === "P") {
+    event.target.parentElement.remove();
+  }
+});
 
 // Clear Button
 btnDelete.addEventListener("click", function () {
