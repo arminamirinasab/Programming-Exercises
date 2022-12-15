@@ -1,0 +1,6 @@
+body {
+    height: 95vh;
+    background-image: url("../image/foo.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
