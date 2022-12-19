@@ -1,0 +1,15 @@
+C:\Github\Programming Exercises\Excercises\C#\FindLargestNumber\FindLargestNumber\bin\Debug\net6.0\FindLargestNumber.exe
+C:\Github\Programming Exercises\Excercises\C#\FindLargestNumber\FindLargestNumber\bin\Debug\net6.0\FindLargestNumber.deps.json
+C:\Github\Programming Exercises\Excercises\C#\FindLargestNumber\FindLargestNumber\bin\Debug\net6.0\FindLargestNumber.runtimeconfig.json
+C:\Github\Programming Exercises\Excercises\C#\FindLargestNumber\FindLargestNumber\bin\Debug\net6.0\FindLargestNumber.dll
+C:\Github\Programming Exercises\Excercises\C#\FindLargestNumber\FindLargestNumber\bin\Debug\net6.0\FindLargestNumber.pdb
+C:\Github\Programming Exercises\Excercises\C#\FindLargestNumber\FindLargestNumber\obj\Debug\net6.0\FindLargestNumber.csproj.AssemblyReference.cache
+C:\Github\Programming Exercises\Excercises\C#\FindLargestNumber\FindLargestNumber\obj\Debug\net6.0\FindLargestNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\Programming Exercises\Excercises\C#\FindLargestNumber\FindLargestNumber\obj\Debug\net6.0\FindLargestNumber.AssemblyInfoInputs.cache
+C:\Github\Programming Exercises\Excercises\C#\FindLargestNumber\FindLargestNumber\obj\Debug\net6.0\FindLargestNumber.AssemblyInfo.cs
+C:\Github\Programming Exercises\Excercises\C#\FindLargestNumber\FindLargestNumber\obj\Debug\net6.0\FindLargestNumber.csproj.CoreCompileInputs.cache
+C:\Github\Programming Exercises\Excercises\C#\FindLargestNumber\FindLargestNumber\obj\Debug\net6.0\FindLargestNumber.dll
+C:\Github\Programming Exercises\Excercises\C#\FindLargestNumber\FindLargestNumber\obj\Debug\net6.0\refint\FindLargestNumber.dll
+C:\Github\Programming Exercises\Excercises\C#\FindLargestNumber\FindLargestNumber\obj\Debug\net6.0\FindLargestNumber.pdb
+C:\Github\Programming Exercises\Excercises\C#\FindLargestNumber\FindLargestNumber\obj\Debug\net6.0\FindLargestNumber.genruntimeconfig.cache
+C:\Github\Programming Exercises\Excercises\C#\FindLargestNumber\FindLargestNumber\obj\Debug\net6.0\ref\FindLargestNumber.dll
