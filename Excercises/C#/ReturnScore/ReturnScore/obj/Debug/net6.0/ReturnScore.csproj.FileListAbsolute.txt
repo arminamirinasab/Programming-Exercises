@@ -1,0 +1,15 @@
+C:\Visual Studio Projects\ReturnScore\ReturnScore\bin\Debug\net6.0\ReturnScore.exe
+C:\Visual Studio Projects\ReturnScore\ReturnScore\bin\Debug\net6.0\ReturnScore.deps.json
+C:\Visual Studio Projects\ReturnScore\ReturnScore\bin\Debug\net6.0\ReturnScore.runtimeconfig.json
+C:\Visual Studio Projects\ReturnScore\ReturnScore\bin\Debug\net6.0\ReturnScore.dll
+C:\Visual Studio Projects\ReturnScore\ReturnScore\bin\Debug\net6.0\ReturnScore.pdb
+C:\Visual Studio Projects\ReturnScore\ReturnScore\obj\Debug\net6.0\ReturnScore.csproj.AssemblyReference.cache
+C:\Visual Studio Projects\ReturnScore\ReturnScore\obj\Debug\net6.0\ReturnScore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio Projects\ReturnScore\ReturnScore\obj\Debug\net6.0\ReturnScore.AssemblyInfoInputs.cache
+C:\Visual Studio Projects\ReturnScore\ReturnScore\obj\Debug\net6.0\ReturnScore.AssemblyInfo.cs
+C:\Visual Studio Projects\ReturnScore\ReturnScore\obj\Debug\net6.0\ReturnScore.csproj.CoreCompileInputs.cache
+C:\Visual Studio Projects\ReturnScore\ReturnScore\obj\Debug\net6.0\ReturnScore.dll
+C:\Visual Studio Projects\ReturnScore\ReturnScore\obj\Debug\net6.0\refint\ReturnScore.dll
+C:\Visual Studio Projects\ReturnScore\ReturnScore\obj\Debug\net6.0\ReturnScore.pdb
+C:\Visual Studio Projects\ReturnScore\ReturnScore\obj\Debug\net6.0\ReturnScore.genruntimeconfig.cache
+C:\Visual Studio Projects\ReturnScore\ReturnScore\obj\Debug\net6.0\ref\ReturnScore.dll
