@@ -1,0 +1,15 @@
+C:\Visual Studio Projects\OddNumber\OddNumber\obj\Debug\net6.0\OddNumber.csproj.AssemblyReference.cache
+C:\Visual Studio Projects\OddNumber\OddNumber\obj\Debug\net6.0\OddNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio Projects\OddNumber\OddNumber\obj\Debug\net6.0\OddNumber.AssemblyInfoInputs.cache
+C:\Visual Studio Projects\OddNumber\OddNumber\obj\Debug\net6.0\OddNumber.AssemblyInfo.cs
+C:\Visual Studio Projects\OddNumber\OddNumber\obj\Debug\net6.0\OddNumber.csproj.CoreCompileInputs.cache
+C:\Visual Studio Projects\OddNumber\OddNumber\bin\Debug\net6.0\OddNumber.exe
+C:\Visual Studio Projects\OddNumber\OddNumber\bin\Debug\net6.0\OddNumber.deps.json
+C:\Visual Studio Projects\OddNumber\OddNumber\bin\Debug\net6.0\OddNumber.runtimeconfig.json
+C:\Visual Studio Projects\OddNumber\OddNumber\bin\Debug\net6.0\OddNumber.dll
+C:\Visual Studio Projects\OddNumber\OddNumber\bin\Debug\net6.0\OddNumber.pdb
+C:\Visual Studio Projects\OddNumber\OddNumber\obj\Debug\net6.0\OddNumber.dll
+C:\Visual Studio Projects\OddNumber\OddNumber\obj\Debug\net6.0\refint\OddNumber.dll
+C:\Visual Studio Projects\OddNumber\OddNumber\obj\Debug\net6.0\OddNumber.pdb
+C:\Visual Studio Projects\OddNumber\OddNumber\obj\Debug\net6.0\OddNumber.genruntimeconfig.cache
+C:\Visual Studio Projects\OddNumber\OddNumber\obj\Debug\net6.0\ref\OddNumber.dll
