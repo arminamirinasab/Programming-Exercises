@@ -1,6 +1,6 @@
 // Variables
-let num1 = 0;
-let num2 = 1;
+let num1 = +prompt("Enter Number One:" , 1);
+let num2 = +prompt("Enter Number Two:" , 1);
 // Third Variable to Save Sum & Last Number;
 let num3 = 0;
 // Inifinty Loop
