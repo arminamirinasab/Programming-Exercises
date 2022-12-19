@@ -1,0 +1,15 @@
+C:\Visual Studio Projects\Programming Sweet\Programming Sweet\bin\Debug\net6.0\Programming Sweet.exe
+C:\Visual Studio Projects\Programming Sweet\Programming Sweet\bin\Debug\net6.0\Programming Sweet.deps.json
+C:\Visual Studio Projects\Programming Sweet\Programming Sweet\bin\Debug\net6.0\Programming Sweet.runtimeconfig.json
+C:\Visual Studio Projects\Programming Sweet\Programming Sweet\bin\Debug\net6.0\Programming Sweet.dll
+C:\Visual Studio Projects\Programming Sweet\Programming Sweet\bin\Debug\net6.0\Programming Sweet.pdb
+C:\Visual Studio Projects\Programming Sweet\Programming Sweet\obj\Debug\net6.0\Programming Sweet.csproj.AssemblyReference.cache
+C:\Visual Studio Projects\Programming Sweet\Programming Sweet\obj\Debug\net6.0\Programming Sweet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio Projects\Programming Sweet\Programming Sweet\obj\Debug\net6.0\Programming Sweet.AssemblyInfoInputs.cache
+C:\Visual Studio Projects\Programming Sweet\Programming Sweet\obj\Debug\net6.0\Programming Sweet.AssemblyInfo.cs
+C:\Visual Studio Projects\Programming Sweet\Programming Sweet\obj\Debug\net6.0\Programming Sweet.csproj.CoreCompileInputs.cache
+C:\Visual Studio Projects\Programming Sweet\Programming Sweet\obj\Debug\net6.0\Programming Sweet.dll
+C:\Visual Studio Projects\Programming Sweet\Programming Sweet\obj\Debug\net6.0\refint\Programming Sweet.dll
+C:\Visual Studio Projects\Programming Sweet\Programming Sweet\obj\Debug\net6.0\Programming Sweet.pdb
+C:\Visual Studio Projects\Programming Sweet\Programming Sweet\obj\Debug\net6.0\Programming Sweet.genruntimeconfig.cache
+C:\Visual Studio Projects\Programming Sweet\Programming Sweet\obj\Debug\net6.0\ref\Programming Sweet.dll
