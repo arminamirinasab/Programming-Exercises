@@ -1,0 +1,15 @@
+C:\Github\Programming Exercises\Excercises\C#\Crush50$\Crush50$\bin\Debug\net6.0\Crush50$.exe
+C:\Github\Programming Exercises\Excercises\C#\Crush50$\Crush50$\bin\Debug\net6.0\Crush50$.deps.json
+C:\Github\Programming Exercises\Excercises\C#\Crush50$\Crush50$\bin\Debug\net6.0\Crush50$.runtimeconfig.json
+C:\Github\Programming Exercises\Excercises\C#\Crush50$\Crush50$\bin\Debug\net6.0\Crush50$.dll
+C:\Github\Programming Exercises\Excercises\C#\Crush50$\Crush50$\bin\Debug\net6.0\Crush50$.pdb
+C:\Github\Programming Exercises\Excercises\C#\Crush50$\Crush50$\obj\Debug\net6.0\Crush50$.csproj.AssemblyReference.cache
+C:\Github\Programming Exercises\Excercises\C#\Crush50$\Crush50$\obj\Debug\net6.0\Crush50$.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\Programming Exercises\Excercises\C#\Crush50$\Crush50$\obj\Debug\net6.0\Crush50$.AssemblyInfoInputs.cache
+C:\Github\Programming Exercises\Excercises\C#\Crush50$\Crush50$\obj\Debug\net6.0\Crush50$.AssemblyInfo.cs
+C:\Github\Programming Exercises\Excercises\C#\Crush50$\Crush50$\obj\Debug\net6.0\Crush50$.csproj.CoreCompileInputs.cache
+C:\Github\Programming Exercises\Excercises\C#\Crush50$\Crush50$\obj\Debug\net6.0\Crush50$.dll
+C:\Github\Programming Exercises\Excercises\C#\Crush50$\Crush50$\obj\Debug\net6.0\refint\Crush50$.dll
+C:\Github\Programming Exercises\Excercises\C#\Crush50$\Crush50$\obj\Debug\net6.0\Crush50$.pdb
+C:\Github\Programming Exercises\Excercises\C#\Crush50$\Crush50$\obj\Debug\net6.0\Crush50$.genruntimeconfig.cache
+C:\Github\Programming Exercises\Excercises\C#\Crush50$\Crush50$\obj\Debug\net6.0\ref\Crush50$.dll
