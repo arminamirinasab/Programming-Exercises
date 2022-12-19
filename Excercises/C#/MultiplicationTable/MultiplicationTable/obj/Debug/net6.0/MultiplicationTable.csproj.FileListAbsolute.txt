@@ -1,0 +1,15 @@
+C:\Github\Programming Exercises\Excercises\C#\MultiplicationTable\MultiplicationTable\bin\Debug\net6.0\MultiplicationTable.exe
+C:\Github\Programming Exercises\Excercises\C#\MultiplicationTable\MultiplicationTable\bin\Debug\net6.0\MultiplicationTable.deps.json
+C:\Github\Programming Exercises\Excercises\C#\MultiplicationTable\MultiplicationTable\bin\Debug\net6.0\MultiplicationTable.runtimeconfig.json
+C:\Github\Programming Exercises\Excercises\C#\MultiplicationTable\MultiplicationTable\bin\Debug\net6.0\MultiplicationTable.dll
+C:\Github\Programming Exercises\Excercises\C#\MultiplicationTable\MultiplicationTable\bin\Debug\net6.0\MultiplicationTable.pdb
+C:\Github\Programming Exercises\Excercises\C#\MultiplicationTable\MultiplicationTable\obj\Debug\net6.0\MultiplicationTable.csproj.AssemblyReference.cache
+C:\Github\Programming Exercises\Excercises\C#\MultiplicationTable\MultiplicationTable\obj\Debug\net6.0\MultiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\Programming Exercises\Excercises\C#\MultiplicationTable\MultiplicationTable\obj\Debug\net6.0\MultiplicationTable.AssemblyInfoInputs.cache
+C:\Github\Programming Exercises\Excercises\C#\MultiplicationTable\MultiplicationTable\obj\Debug\net6.0\MultiplicationTable.AssemblyInfo.cs
+C:\Github\Programming Exercises\Excercises\C#\MultiplicationTable\MultiplicationTable\obj\Debug\net6.0\MultiplicationTable.csproj.CoreCompileInputs.cache
+C:\Github\Programming Exercises\Excercises\C#\MultiplicationTable\MultiplicationTable\obj\Debug\net6.0\MultiplicationTable.dll
+C:\Github\Programming Exercises\Excercises\C#\MultiplicationTable\MultiplicationTable\obj\Debug\net6.0\refint\MultiplicationTable.dll
+C:\Github\Programming Exercises\Excercises\C#\MultiplicationTable\MultiplicationTable\obj\Debug\net6.0\MultiplicationTable.pdb
+C:\Github\Programming Exercises\Excercises\C#\MultiplicationTable\MultiplicationTable\obj\Debug\net6.0\MultiplicationTable.genruntimeconfig.cache
+C:\Github\Programming Exercises\Excercises\C#\MultiplicationTable\MultiplicationTable\obj\Debug\net6.0\ref\MultiplicationTable.dll
