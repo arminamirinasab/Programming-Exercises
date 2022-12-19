@@ -1,0 +1,15 @@
+C:\Github\Programming Exercises\Excercises\C#\StarPattern\StarPattern\bin\Debug\net6.0\StarPattern.exe
+C:\Github\Programming Exercises\Excercises\C#\StarPattern\StarPattern\bin\Debug\net6.0\StarPattern.deps.json
+C:\Github\Programming Exercises\Excercises\C#\StarPattern\StarPattern\bin\Debug\net6.0\StarPattern.runtimeconfig.json
+C:\Github\Programming Exercises\Excercises\C#\StarPattern\StarPattern\bin\Debug\net6.0\StarPattern.dll
+C:\Github\Programming Exercises\Excercises\C#\StarPattern\StarPattern\bin\Debug\net6.0\StarPattern.pdb
+C:\Github\Programming Exercises\Excercises\C#\StarPattern\StarPattern\obj\Debug\net6.0\StarPattern.csproj.AssemblyReference.cache
+C:\Github\Programming Exercises\Excercises\C#\StarPattern\StarPattern\obj\Debug\net6.0\StarPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\Programming Exercises\Excercises\C#\StarPattern\StarPattern\obj\Debug\net6.0\StarPattern.AssemblyInfoInputs.cache
+C:\Github\Programming Exercises\Excercises\C#\StarPattern\StarPattern\obj\Debug\net6.0\StarPattern.AssemblyInfo.cs
+C:\Github\Programming Exercises\Excercises\C#\StarPattern\StarPattern\obj\Debug\net6.0\StarPattern.csproj.CoreCompileInputs.cache
+C:\Github\Programming Exercises\Excercises\C#\StarPattern\StarPattern\obj\Debug\net6.0\StarPattern.dll
+C:\Github\Programming Exercises\Excercises\C#\StarPattern\StarPattern\obj\Debug\net6.0\refint\StarPattern.dll
+C:\Github\Programming Exercises\Excercises\C#\StarPattern\StarPattern\obj\Debug\net6.0\StarPattern.pdb
+C:\Github\Programming Exercises\Excercises\C#\StarPattern\StarPattern\obj\Debug\net6.0\StarPattern.genruntimeconfig.cache
+C:\Github\Programming Exercises\Excercises\C#\StarPattern\StarPattern\obj\Debug\net6.0\ref\StarPattern.dll
