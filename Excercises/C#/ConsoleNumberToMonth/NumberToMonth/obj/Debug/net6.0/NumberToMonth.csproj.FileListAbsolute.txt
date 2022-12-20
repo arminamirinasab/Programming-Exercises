@@ -1,0 +1,15 @@
+C:\Github\Programming Exercises\Excercises\C#\NumberToMonth\NumberToMonth\bin\Debug\net6.0\NumberToMonth.exe
+C:\Github\Programming Exercises\Excercises\C#\NumberToMonth\NumberToMonth\bin\Debug\net6.0\NumberToMonth.deps.json
+C:\Github\Programming Exercises\Excercises\C#\NumberToMonth\NumberToMonth\bin\Debug\net6.0\NumberToMonth.runtimeconfig.json
+C:\Github\Programming Exercises\Excercises\C#\NumberToMonth\NumberToMonth\bin\Debug\net6.0\NumberToMonth.dll
+C:\Github\Programming Exercises\Excercises\C#\NumberToMonth\NumberToMonth\bin\Debug\net6.0\NumberToMonth.pdb
+C:\Github\Programming Exercises\Excercises\C#\NumberToMonth\NumberToMonth\obj\Debug\net6.0\NumberToMonth.csproj.AssemblyReference.cache
+C:\Github\Programming Exercises\Excercises\C#\NumberToMonth\NumberToMonth\obj\Debug\net6.0\NumberToMonth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\Programming Exercises\Excercises\C#\NumberToMonth\NumberToMonth\obj\Debug\net6.0\NumberToMonth.AssemblyInfoInputs.cache
+C:\Github\Programming Exercises\Excercises\C#\NumberToMonth\NumberToMonth\obj\Debug\net6.0\NumberToMonth.AssemblyInfo.cs
+C:\Github\Programming Exercises\Excercises\C#\NumberToMonth\NumberToMonth\obj\Debug\net6.0\NumberToMonth.csproj.CoreCompileInputs.cache
+C:\Github\Programming Exercises\Excercises\C#\NumberToMonth\NumberToMonth\obj\Debug\net6.0\NumberToMonth.dll
+C:\Github\Programming Exercises\Excercises\C#\NumberToMonth\NumberToMonth\obj\Debug\net6.0\refint\NumberToMonth.dll
+C:\Github\Programming Exercises\Excercises\C#\NumberToMonth\NumberToMonth\obj\Debug\net6.0\NumberToMonth.pdb
+C:\Github\Programming Exercises\Excercises\C#\NumberToMonth\NumberToMonth\obj\Debug\net6.0\NumberToMonth.genruntimeconfig.cache
+C:\Github\Programming Exercises\Excercises\C#\NumberToMonth\NumberToMonth\obj\Debug\net6.0\ref\NumberToMonth.dll
