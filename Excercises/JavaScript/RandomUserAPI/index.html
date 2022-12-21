@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/style.css">
+    <title>Random User API</title>
+</head>
+<body>
+    <div class="wrapper">
+  <div class="profile-card js-profile-card">
+    <div class="profile-card__img">
+      <img id="profile" alt="profile card">
+    </div>
+
+    <div class="profile-card__cnt js-profile-cnt">
+      <div class="profile-card__name" id="name"></div>
+      <div class="profile-card__txt" id="email"></div>
+      <div class="profile-card-loc">
+        <span class="profile-card-loc__icon">
+          <svg class="icon"><use xlink:href="#icon-location"></use></svg>
+        </span>
+
+        <span id="location" class="profile-card-loc__txt"></span>
+      </div>
+
+      <div class="profile-card-inf">
+        <div class="profile-card-inf__item">
+          <div class="profile-card-inf__title" id="phone"></div>
+          <div class="profile-card-inf__txt">Phone</div>
+        </div>
+
+        <div class="profile-card-inf__item">
+          <div class="profile-card-inf__title" id="age"></div>
+          <div class="profile-card-inf__txt">Age</div>
+        </div>
+
+        <div class="profile-card-inf__item">
+          <div class="profile-card-inf__title" id="nat"></div>
+          <div class="profile-card-inf__txt">Nationality</div>
+        </div>
+      </div>
+
+      </div>
+
+      <div class="profile-card-ctr">
+        <button class="profile-card__button button--blue js-message-btn" onclick="location.reload();">Renew</button>
+        <button class="profile-card__button button--orange" onclick="location.href = 'https:\/\/arminamirinasab.ir/'">My Website</button>
+      </div>
+    </div>
+
+    <div class="profile-card-message js-message">
+      <form class="profile-card-form">
+        <div class="profile-card-form__container">
+          <textarea placeholder="Say something..."></textarea>
+        </div>
+
+        <div class="profile-card-form__bottom">
+          <button class="profile-card__button button--blue js-message-close">
+            Send
+          </button>
+
+          <button class="profile-card__button button--gray js-message-close">
+            Cancel
+          </button>
+        </div>
+      </form>
+
+      <div class="profile-card__overlay js-message-close"></div>
+    </div>
+
+  </div>
+
+</div>
+
+<div class="loading">
+  <img src="./img/search.svg" alt="">
+</div>
+
+<script src="./js/script.js"></script>
+</body>
+</html>
