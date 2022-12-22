@@ -1,0 +1,17 @@
+C:\Github\Programming Exercises\Excercises\C#\BackgroundColorChanger\BackgroundColorChanger\bin\Debug\net6.0-windows\BackgroundColorChanger.exe
+C:\Github\Programming Exercises\Excercises\C#\BackgroundColorChanger\BackgroundColorChanger\bin\Debug\net6.0-windows\BackgroundColorChanger.deps.json
+C:\Github\Programming Exercises\Excercises\C#\BackgroundColorChanger\BackgroundColorChanger\bin\Debug\net6.0-windows\BackgroundColorChanger.runtimeconfig.json
+C:\Github\Programming Exercises\Excercises\C#\BackgroundColorChanger\BackgroundColorChanger\bin\Debug\net6.0-windows\BackgroundColorChanger.dll
+C:\Github\Programming Exercises\Excercises\C#\BackgroundColorChanger\BackgroundColorChanger\bin\Debug\net6.0-windows\BackgroundColorChanger.pdb
+C:\Github\Programming Exercises\Excercises\C#\BackgroundColorChanger\BackgroundColorChanger\obj\Debug\net6.0-windows\BackgroundColorChanger.csproj.AssemblyReference.cache
+C:\Github\Programming Exercises\Excercises\C#\BackgroundColorChanger\BackgroundColorChanger\obj\Debug\net6.0-windows\BackgroundColorChanger.Form1.resources
+C:\Github\Programming Exercises\Excercises\C#\BackgroundColorChanger\BackgroundColorChanger\obj\Debug\net6.0-windows\BackgroundColorChanger.csproj.GenerateResource.cache
+C:\Github\Programming Exercises\Excercises\C#\BackgroundColorChanger\BackgroundColorChanger\obj\Debug\net6.0-windows\BackgroundColorChanger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\Programming Exercises\Excercises\C#\BackgroundColorChanger\BackgroundColorChanger\obj\Debug\net6.0-windows\BackgroundColorChanger.AssemblyInfoInputs.cache
+C:\Github\Programming Exercises\Excercises\C#\BackgroundColorChanger\BackgroundColorChanger\obj\Debug\net6.0-windows\BackgroundColorChanger.AssemblyInfo.cs
+C:\Github\Programming Exercises\Excercises\C#\BackgroundColorChanger\BackgroundColorChanger\obj\Debug\net6.0-windows\BackgroundColorChanger.csproj.CoreCompileInputs.cache
+C:\Github\Programming Exercises\Excercises\C#\BackgroundColorChanger\BackgroundColorChanger\obj\Debug\net6.0-windows\BackgroundColorChanger.dll
+C:\Github\Programming Exercises\Excercises\C#\BackgroundColorChanger\BackgroundColorChanger\obj\Debug\net6.0-windows\refint\BackgroundColorChanger.dll
+C:\Github\Programming Exercises\Excercises\C#\BackgroundColorChanger\BackgroundColorChanger\obj\Debug\net6.0-windows\BackgroundColorChanger.pdb
+C:\Github\Programming Exercises\Excercises\C#\BackgroundColorChanger\BackgroundColorChanger\obj\Debug\net6.0-windows\BackgroundColorChanger.genruntimeconfig.cache
+C:\Github\Programming Exercises\Excercises\C#\BackgroundColorChanger\BackgroundColorChanger\obj\Debug\net6.0-windows\ref\BackgroundColorChanger.dll
