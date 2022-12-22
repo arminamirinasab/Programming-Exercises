@@ -1,0 +1,15 @@
+C:\Users\armin\Desktop\Poodman2\Poodman2\bin\Debug\net6.0\FindinArray.exe
+C:\Users\armin\Desktop\Poodman2\Poodman2\bin\Debug\net6.0\FindinArray.deps.json
+C:\Users\armin\Desktop\Poodman2\Poodman2\bin\Debug\net6.0\FindinArray.runtimeconfig.json
+C:\Users\armin\Desktop\Poodman2\Poodman2\bin\Debug\net6.0\FindinArray.dll
+C:\Users\armin\Desktop\Poodman2\Poodman2\bin\Debug\net6.0\FindinArray.pdb
+C:\Users\armin\Desktop\Poodman2\Poodman2\obj\Debug\net6.0\FindinArray.csproj.AssemblyReference.cache
+C:\Users\armin\Desktop\Poodman2\Poodman2\obj\Debug\net6.0\FindinArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\armin\Desktop\Poodman2\Poodman2\obj\Debug\net6.0\FindinArray.AssemblyInfoInputs.cache
+C:\Users\armin\Desktop\Poodman2\Poodman2\obj\Debug\net6.0\FindinArray.AssemblyInfo.cs
+C:\Users\armin\Desktop\Poodman2\Poodman2\obj\Debug\net6.0\FindinArray.csproj.CoreCompileInputs.cache
+C:\Users\armin\Desktop\Poodman2\Poodman2\obj\Debug\net6.0\FindinArray.dll
+C:\Users\armin\Desktop\Poodman2\Poodman2\obj\Debug\net6.0\refint\FindinArray.dll
+C:\Users\armin\Desktop\Poodman2\Poodman2\obj\Debug\net6.0\FindinArray.pdb
+C:\Users\armin\Desktop\Poodman2\Poodman2\obj\Debug\net6.0\FindinArray.genruntimeconfig.cache
+C:\Users\armin\Desktop\Poodman2\Poodman2\obj\Debug\net6.0\ref\FindinArray.dll

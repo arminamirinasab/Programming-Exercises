@@ -1,0 +1,15 @@
+C:\Users\armin\Desktop\Poodman2\Poodman2\bin\Debug\net6.0\Poodman2.exe
+C:\Users\armin\Desktop\Poodman2\Poodman2\bin\Debug\net6.0\Poodman2.deps.json
+C:\Users\armin\Desktop\Poodman2\Poodman2\bin\Debug\net6.0\Poodman2.runtimeconfig.json
+C:\Users\armin\Desktop\Poodman2\Poodman2\bin\Debug\net6.0\Poodman2.dll
+C:\Users\armin\Desktop\Poodman2\Poodman2\bin\Debug\net6.0\Poodman2.pdb
+C:\Users\armin\Desktop\Poodman2\Poodman2\obj\Debug\net6.0\Poodman2.csproj.AssemblyReference.cache
+C:\Users\armin\Desktop\Poodman2\Poodman2\obj\Debug\net6.0\Poodman2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\armin\Desktop\Poodman2\Poodman2\obj\Debug\net6.0\Poodman2.AssemblyInfoInputs.cache
+C:\Users\armin\Desktop\Poodman2\Poodman2\obj\Debug\net6.0\Poodman2.AssemblyInfo.cs
+C:\Users\armin\Desktop\Poodman2\Poodman2\obj\Debug\net6.0\Poodman2.csproj.CoreCompileInputs.cache
+C:\Users\armin\Desktop\Poodman2\Poodman2\obj\Debug\net6.0\Poodman2.dll
+C:\Users\armin\Desktop\Poodman2\Poodman2\obj\Debug\net6.0\refint\Poodman2.dll
+C:\Users\armin\Desktop\Poodman2\Poodman2\obj\Debug\net6.0\Poodman2.pdb
+C:\Users\armin\Desktop\Poodman2\Poodman2\obj\Debug\net6.0\Poodman2.genruntimeconfig.cache
+C:\Users\armin\Desktop\Poodman2\Poodman2\obj\Debug\net6.0\ref\Poodman2.dll
