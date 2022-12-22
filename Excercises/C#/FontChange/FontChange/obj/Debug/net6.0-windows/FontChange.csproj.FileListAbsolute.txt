@@ -1,0 +1,17 @@
+C:\Github\Programming Exercises\Excercises\C#\FontChange\FontChange\bin\Debug\net6.0-windows\FontChange.exe
+C:\Github\Programming Exercises\Excercises\C#\FontChange\FontChange\bin\Debug\net6.0-windows\FontChange.deps.json
+C:\Github\Programming Exercises\Excercises\C#\FontChange\FontChange\bin\Debug\net6.0-windows\FontChange.runtimeconfig.json
+C:\Github\Programming Exercises\Excercises\C#\FontChange\FontChange\bin\Debug\net6.0-windows\FontChange.dll
+C:\Github\Programming Exercises\Excercises\C#\FontChange\FontChange\bin\Debug\net6.0-windows\FontChange.pdb
+C:\Github\Programming Exercises\Excercises\C#\FontChange\FontChange\obj\Debug\net6.0-windows\FontChange.csproj.AssemblyReference.cache
+C:\Github\Programming Exercises\Excercises\C#\FontChange\FontChange\obj\Debug\net6.0-windows\FontChange.Form1.resources
+C:\Github\Programming Exercises\Excercises\C#\FontChange\FontChange\obj\Debug\net6.0-windows\FontChange.csproj.GenerateResource.cache
+C:\Github\Programming Exercises\Excercises\C#\FontChange\FontChange\obj\Debug\net6.0-windows\FontChange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\Programming Exercises\Excercises\C#\FontChange\FontChange\obj\Debug\net6.0-windows\FontChange.AssemblyInfoInputs.cache
+C:\Github\Programming Exercises\Excercises\C#\FontChange\FontChange\obj\Debug\net6.0-windows\FontChange.AssemblyInfo.cs
+C:\Github\Programming Exercises\Excercises\C#\FontChange\FontChange\obj\Debug\net6.0-windows\FontChange.csproj.CoreCompileInputs.cache
+C:\Github\Programming Exercises\Excercises\C#\FontChange\FontChange\obj\Debug\net6.0-windows\FontChange.dll
+C:\Github\Programming Exercises\Excercises\C#\FontChange\FontChange\obj\Debug\net6.0-windows\refint\FontChange.dll
+C:\Github\Programming Exercises\Excercises\C#\FontChange\FontChange\obj\Debug\net6.0-windows\FontChange.pdb
+C:\Github\Programming Exercises\Excercises\C#\FontChange\FontChange\obj\Debug\net6.0-windows\FontChange.genruntimeconfig.cache
+C:\Github\Programming Exercises\Excercises\C#\FontChange\FontChange\obj\Debug\net6.0-windows\ref\FontChange.dll
