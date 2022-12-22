@@ -1,0 +1,15 @@
+C:\Users\armin\Desktop\foreach\foreach\bin\Debug\net6.0\foreach.exe
+C:\Users\armin\Desktop\foreach\foreach\bin\Debug\net6.0\foreach.deps.json
+C:\Users\armin\Desktop\foreach\foreach\bin\Debug\net6.0\foreach.runtimeconfig.json
+C:\Users\armin\Desktop\foreach\foreach\bin\Debug\net6.0\foreach.dll
+C:\Users\armin\Desktop\foreach\foreach\bin\Debug\net6.0\foreach.pdb
+C:\Users\armin\Desktop\foreach\foreach\obj\Debug\net6.0\foreach.csproj.AssemblyReference.cache
+C:\Users\armin\Desktop\foreach\foreach\obj\Debug\net6.0\foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\armin\Desktop\foreach\foreach\obj\Debug\net6.0\foreach.AssemblyInfoInputs.cache
+C:\Users\armin\Desktop\foreach\foreach\obj\Debug\net6.0\foreach.AssemblyInfo.cs
+C:\Users\armin\Desktop\foreach\foreach\obj\Debug\net6.0\foreach.csproj.CoreCompileInputs.cache
+C:\Users\armin\Desktop\foreach\foreach\obj\Debug\net6.0\foreach.dll
+C:\Users\armin\Desktop\foreach\foreach\obj\Debug\net6.0\refint\foreach.dll
+C:\Users\armin\Desktop\foreach\foreach\obj\Debug\net6.0\foreach.pdb
+C:\Users\armin\Desktop\foreach\foreach\obj\Debug\net6.0\foreach.genruntimeconfig.cache
+C:\Users\armin\Desktop\foreach\foreach\obj\Debug\net6.0\ref\foreach.dll
