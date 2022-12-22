@@ -1,0 +1,15 @@
+C:\Github\Programming Exercises\Excercises\C#\ConsoleStringToChar\ConsoleStringToChar\obj\Debug\net6.0\ConsoleStringToChar.csproj.AssemblyReference.cache
+C:\Github\Programming Exercises\Excercises\C#\ConsoleStringToChar\ConsoleStringToChar\obj\Debug\net6.0\ConsoleStringToChar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\Programming Exercises\Excercises\C#\ConsoleStringToChar\ConsoleStringToChar\obj\Debug\net6.0\ConsoleStringToChar.AssemblyInfoInputs.cache
+C:\Github\Programming Exercises\Excercises\C#\ConsoleStringToChar\ConsoleStringToChar\obj\Debug\net6.0\ConsoleStringToChar.AssemblyInfo.cs
+C:\Github\Programming Exercises\Excercises\C#\ConsoleStringToChar\ConsoleStringToChar\obj\Debug\net6.0\ConsoleStringToChar.csproj.CoreCompileInputs.cache
+C:\Github\Programming Exercises\Excercises\C#\ConsoleStringToChar\ConsoleStringToChar\bin\Debug\net6.0\ConsoleStringToChar.exe
+C:\Github\Programming Exercises\Excercises\C#\ConsoleStringToChar\ConsoleStringToChar\bin\Debug\net6.0\ConsoleStringToChar.deps.json
+C:\Github\Programming Exercises\Excercises\C#\ConsoleStringToChar\ConsoleStringToChar\bin\Debug\net6.0\ConsoleStringToChar.runtimeconfig.json
+C:\Github\Programming Exercises\Excercises\C#\ConsoleStringToChar\ConsoleStringToChar\bin\Debug\net6.0\ConsoleStringToChar.dll
+C:\Github\Programming Exercises\Excercises\C#\ConsoleStringToChar\ConsoleStringToChar\bin\Debug\net6.0\ConsoleStringToChar.pdb
+C:\Github\Programming Exercises\Excercises\C#\ConsoleStringToChar\ConsoleStringToChar\obj\Debug\net6.0\ConsoleStringToChar.dll
+C:\Github\Programming Exercises\Excercises\C#\ConsoleStringToChar\ConsoleStringToChar\obj\Debug\net6.0\refint\ConsoleStringToChar.dll
+C:\Github\Programming Exercises\Excercises\C#\ConsoleStringToChar\ConsoleStringToChar\obj\Debug\net6.0\ConsoleStringToChar.pdb
+C:\Github\Programming Exercises\Excercises\C#\ConsoleStringToChar\ConsoleStringToChar\obj\Debug\net6.0\ConsoleStringToChar.genruntimeconfig.cache
+C:\Github\Programming Exercises\Excercises\C#\ConsoleStringToChar\ConsoleStringToChar\obj\Debug\net6.0\ref\ConsoleStringToChar.dll
