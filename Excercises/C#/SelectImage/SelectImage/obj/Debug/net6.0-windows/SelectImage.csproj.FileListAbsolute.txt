@@ -1,0 +1,17 @@
+C:\Github\Programming Exercises\Excercises\C#\SelectImage\SelectImage\bin\Debug\net6.0-windows\SelectImage.exe
+C:\Github\Programming Exercises\Excercises\C#\SelectImage\SelectImage\bin\Debug\net6.0-windows\SelectImage.deps.json
+C:\Github\Programming Exercises\Excercises\C#\SelectImage\SelectImage\bin\Debug\net6.0-windows\SelectImage.runtimeconfig.json
+C:\Github\Programming Exercises\Excercises\C#\SelectImage\SelectImage\bin\Debug\net6.0-windows\SelectImage.dll
+C:\Github\Programming Exercises\Excercises\C#\SelectImage\SelectImage\bin\Debug\net6.0-windows\SelectImage.pdb
+C:\Github\Programming Exercises\Excercises\C#\SelectImage\SelectImage\obj\Debug\net6.0-windows\SelectImage.csproj.AssemblyReference.cache
+C:\Github\Programming Exercises\Excercises\C#\SelectImage\SelectImage\obj\Debug\net6.0-windows\SelectImage.Form1.resources
+C:\Github\Programming Exercises\Excercises\C#\SelectImage\SelectImage\obj\Debug\net6.0-windows\SelectImage.csproj.GenerateResource.cache
+C:\Github\Programming Exercises\Excercises\C#\SelectImage\SelectImage\obj\Debug\net6.0-windows\SelectImage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\Programming Exercises\Excercises\C#\SelectImage\SelectImage\obj\Debug\net6.0-windows\SelectImage.AssemblyInfoInputs.cache
+C:\Github\Programming Exercises\Excercises\C#\SelectImage\SelectImage\obj\Debug\net6.0-windows\SelectImage.AssemblyInfo.cs
+C:\Github\Programming Exercises\Excercises\C#\SelectImage\SelectImage\obj\Debug\net6.0-windows\SelectImage.csproj.CoreCompileInputs.cache
+C:\Github\Programming Exercises\Excercises\C#\SelectImage\SelectImage\obj\Debug\net6.0-windows\SelectImage.dll
+C:\Github\Programming Exercises\Excercises\C#\SelectImage\SelectImage\obj\Debug\net6.0-windows\refint\SelectImage.dll
+C:\Github\Programming Exercises\Excercises\C#\SelectImage\SelectImage\obj\Debug\net6.0-windows\SelectImage.pdb
+C:\Github\Programming Exercises\Excercises\C#\SelectImage\SelectImage\obj\Debug\net6.0-windows\SelectImage.genruntimeconfig.cache
+C:\Github\Programming Exercises\Excercises\C#\SelectImage\SelectImage\obj\Debug\net6.0-windows\ref\SelectImage.dll
