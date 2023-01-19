@@ -169,23 +169,7 @@ namespace CountriesQuizzes
         private void button1_Click(object sender, EventArgs e)
         {
             // Check Correct Answer
-            if (rdbFrance.Checked && correctAnswer == 1)
-            {
-                MessageBox.Show("Your Answer Is Correct, It Hit The Target :)", "Hooray", MessageBoxButtons.OK, MessageBoxIcon.Information);
-            }
-            else if (rdbUSA.Checked && correctAnswer == 2)
-            {
-                MessageBox.Show("Your Answer Is Correct, It Hit The Target :)", "Hooray", MessageBoxButtons.OK, MessageBoxIcon.Information);
-            }
-            else if (rdbBrazil.Checked && correctAnswer == 3)
-            {
-                MessageBox.Show("Your Answer Is Correct, It Hit The Target :)", "Hooray", MessageBoxButtons.OK, MessageBoxIcon.Information);
-            }
-            else if (rdbIran.Checked && correctAnswer == 4)
-            {
-                MessageBox.Show("Your Answer Is Correct, It Hit The Target :)", "Hooray", MessageBoxButtons.OK, MessageBoxIcon.Information);
-            }
-            else if (rdbRussia.Checked && correctAnswer == 5)
+            if ((rdbFrance.Checked && correctAnswer == 1) || (rdbUSA.Checked && correctAnswer == 2) || (rdbBrazil.Checked && correctAnswer == 3) || (rdbIran.Checked && correctAnswer == 4) || (rdbRussia.Checked && correctAnswer == 5))
             {
                 MessageBox.Show("Your Answer Is Correct, It Hit The Target :)", "Hooray", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
