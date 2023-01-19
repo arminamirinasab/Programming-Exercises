@@ -1,0 +1,17 @@
+C:\Codes\Programming Exercises\Excercises\C#\MessagesBox\MessagesBox\bin\Debug\net6.0-windows\MessagesBox.exe
+C:\Codes\Programming Exercises\Excercises\C#\MessagesBox\MessagesBox\bin\Debug\net6.0-windows\MessagesBox.deps.json
+C:\Codes\Programming Exercises\Excercises\C#\MessagesBox\MessagesBox\bin\Debug\net6.0-windows\MessagesBox.runtimeconfig.json
+C:\Codes\Programming Exercises\Excercises\C#\MessagesBox\MessagesBox\bin\Debug\net6.0-windows\MessagesBox.dll
+C:\Codes\Programming Exercises\Excercises\C#\MessagesBox\MessagesBox\bin\Debug\net6.0-windows\MessagesBox.pdb
+C:\Codes\Programming Exercises\Excercises\C#\MessagesBox\MessagesBox\obj\Debug\net6.0-windows\MessagesBox.csproj.AssemblyReference.cache
+C:\Codes\Programming Exercises\Excercises\C#\MessagesBox\MessagesBox\obj\Debug\net6.0-windows\MessagesBox.Form1.resources
+C:\Codes\Programming Exercises\Excercises\C#\MessagesBox\MessagesBox\obj\Debug\net6.0-windows\MessagesBox.csproj.GenerateResource.cache
+C:\Codes\Programming Exercises\Excercises\C#\MessagesBox\MessagesBox\obj\Debug\net6.0-windows\MessagesBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\Programming Exercises\Excercises\C#\MessagesBox\MessagesBox\obj\Debug\net6.0-windows\MessagesBox.AssemblyInfoInputs.cache
+C:\Codes\Programming Exercises\Excercises\C#\MessagesBox\MessagesBox\obj\Debug\net6.0-windows\MessagesBox.AssemblyInfo.cs
+C:\Codes\Programming Exercises\Excercises\C#\MessagesBox\MessagesBox\obj\Debug\net6.0-windows\MessagesBox.csproj.CoreCompileInputs.cache
+C:\Codes\Programming Exercises\Excercises\C#\MessagesBox\MessagesBox\obj\Debug\net6.0-windows\MessagesBox.dll
+C:\Codes\Programming Exercises\Excercises\C#\MessagesBox\MessagesBox\obj\Debug\net6.0-windows\refint\MessagesBox.dll
+C:\Codes\Programming Exercises\Excercises\C#\MessagesBox\MessagesBox\obj\Debug\net6.0-windows\MessagesBox.pdb
+C:\Codes\Programming Exercises\Excercises\C#\MessagesBox\MessagesBox\obj\Debug\net6.0-windows\MessagesBox.genruntimeconfig.cache
+C:\Codes\Programming Exercises\Excercises\C#\MessagesBox\MessagesBox\obj\Debug\net6.0-windows\ref\MessagesBox.dll
