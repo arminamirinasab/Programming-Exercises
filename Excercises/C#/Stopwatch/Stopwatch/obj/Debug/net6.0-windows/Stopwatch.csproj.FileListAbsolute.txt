@@ -1,0 +1,17 @@
+C:\Codes\Programming Exercises\Excercises\C#\Stopwatch\Stopwatch\bin\Debug\net6.0-windows\Stopwatch.exe
+C:\Codes\Programming Exercises\Excercises\C#\Stopwatch\Stopwatch\bin\Debug\net6.0-windows\Stopwatch.deps.json
+C:\Codes\Programming Exercises\Excercises\C#\Stopwatch\Stopwatch\bin\Debug\net6.0-windows\Stopwatch.runtimeconfig.json
+C:\Codes\Programming Exercises\Excercises\C#\Stopwatch\Stopwatch\bin\Debug\net6.0-windows\Stopwatch.dll
+C:\Codes\Programming Exercises\Excercises\C#\Stopwatch\Stopwatch\bin\Debug\net6.0-windows\Stopwatch.pdb
+C:\Codes\Programming Exercises\Excercises\C#\Stopwatch\Stopwatch\obj\Debug\net6.0-windows\Stopwatch.csproj.AssemblyReference.cache
+C:\Codes\Programming Exercises\Excercises\C#\Stopwatch\Stopwatch\obj\Debug\net6.0-windows\Stopwatch.Form1.resources
+C:\Codes\Programming Exercises\Excercises\C#\Stopwatch\Stopwatch\obj\Debug\net6.0-windows\Stopwatch.csproj.GenerateResource.cache
+C:\Codes\Programming Exercises\Excercises\C#\Stopwatch\Stopwatch\obj\Debug\net6.0-windows\Stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\Programming Exercises\Excercises\C#\Stopwatch\Stopwatch\obj\Debug\net6.0-windows\Stopwatch.AssemblyInfoInputs.cache
+C:\Codes\Programming Exercises\Excercises\C#\Stopwatch\Stopwatch\obj\Debug\net6.0-windows\Stopwatch.AssemblyInfo.cs
+C:\Codes\Programming Exercises\Excercises\C#\Stopwatch\Stopwatch\obj\Debug\net6.0-windows\Stopwatch.csproj.CoreCompileInputs.cache
+C:\Codes\Programming Exercises\Excercises\C#\Stopwatch\Stopwatch\obj\Debug\net6.0-windows\Stopwatch.dll
+C:\Codes\Programming Exercises\Excercises\C#\Stopwatch\Stopwatch\obj\Debug\net6.0-windows\refint\Stopwatch.dll
+C:\Codes\Programming Exercises\Excercises\C#\Stopwatch\Stopwatch\obj\Debug\net6.0-windows\Stopwatch.pdb
+C:\Codes\Programming Exercises\Excercises\C#\Stopwatch\Stopwatch\obj\Debug\net6.0-windows\Stopwatch.genruntimeconfig.cache
+C:\Codes\Programming Exercises\Excercises\C#\Stopwatch\Stopwatch\obj\Debug\net6.0-windows\ref\Stopwatch.dll
