@@ -31,29 +31,27 @@
             this.lblResult = new System.Windows.Forms.Label();
             this.btnYes = new System.Windows.Forms.Button();
             this.btnNo = new System.Windows.Forms.Button();
-            this.btnX = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // lblResult
             // 
             this.lblResult.AutoSize = true;
-            this.lblResult.Font = new System.Drawing.Font("Lucida Sans Unicode", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblResult.Location = new System.Drawing.Point(32, 20);
+            this.lblResult.Font = new System.Drawing.Font("M PLUS 2 SemiBold", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblResult.Location = new System.Drawing.Point(34, 20);
             this.lblResult.Name = "lblResult";
             this.lblResult.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.lblResult.Size = new System.Drawing.Size(209, 23);
+            this.lblResult.Size = new System.Drawing.Size(199, 25);
             this.lblResult.TabIndex = 0;
-            this.lblResult.Text = "Are You Stupied ^0^";
+            this.lblResult.Text = "Are You Stupied ^0^ ?";
             this.lblResult.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            this.lblResult.Click += new System.EventHandler(this.label1_Click);
             // 
             // btnYes
             // 
             this.btnYes.FlatAppearance.BorderSize = 0;
             this.btnYes.FlatStyle = System.Windows.Forms.FlatStyle.System;
-            this.btnYes.Location = new System.Drawing.Point(12, 89);
+            this.btnYes.Location = new System.Drawing.Point(12, 145);
             this.btnYes.Name = "btnYes";
-            this.btnYes.Size = new System.Drawing.Size(216, 103);
+            this.btnYes.Size = new System.Drawing.Size(208, 46);
             this.btnYes.TabIndex = 1;
             this.btnYes.Text = "Yes";
             this.btnYes.UseVisualStyleBackColor = true;
@@ -62,7 +60,7 @@
             // btnNo
             // 
             this.btnNo.FlatStyle = System.Windows.Forms.FlatStyle.System;
-            this.btnNo.Location = new System.Drawing.Point(83, 60);
+            this.btnNo.Location = new System.Drawing.Point(80, 116);
             this.btnNo.Name = "btnNo";
             this.btnNo.Size = new System.Drawing.Size(75, 23);
             this.btnNo.TabIndex = 2;
@@ -70,36 +68,19 @@
             this.btnNo.UseVisualStyleBackColor = true;
             this.btnNo.Click += new System.EventHandler(this.btnNo_Click);
             // 
-            // btnX
-            // 
-            this.btnX.FlatStyle = System.Windows.Forms.FlatStyle.System;
-            this.btnX.Location = new System.Drawing.Point(196, 23);
-            this.btnX.Name = "btnX";
-            this.btnX.Size = new System.Drawing.Size(24, 23);
-            this.btnX.TabIndex = 3;
-            this.btnX.Text = "X";
-            this.btnX.UseVisualStyleBackColor = true;
-            this.btnX.Visible = false;
-            this.btnX.Click += new System.EventHandler(this.btnX_Click);
-            // 
             // mainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(232, 203);
-            this.ControlBox = false;
-            this.Controls.Add(this.btnX);
             this.Controls.Add(this.btnNo);
             this.Controls.Add(this.btnYes);
             this.Controls.Add(this.lblResult);
             this.Font = new System.Drawing.Font("Lucida Sans Unicode", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Name = "mainForm";
-            this.Opacity = 0.95D;
             this.ShowIcon = false;
-            this.ShowInTaskbar = false;
-            this.Text = "Form1";
-            this.Load += new System.EventHandler(this.Form1_Load);
+            this.Text = "Are You Stupied?";
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -110,7 +91,6 @@
         private System.Windows.Forms.Label lblResult;
         private System.Windows.Forms.Button btnYes;
         private System.Windows.Forms.Button btnNo;
-        private System.Windows.Forms.Button btnX;
     }
 }
 

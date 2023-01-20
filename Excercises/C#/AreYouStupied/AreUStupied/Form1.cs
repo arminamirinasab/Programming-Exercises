@@ -17,40 +17,18 @@ namespace AreUStupied
             InitializeComponent();
         }
 
-        // 
-        Random myRandom = new Random();
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
-        }
-
         // Yes Button Event
         private void btnYes_Click(object sender, EventArgs e)
         {
-            lblResult.Text = "I knew It O_O";
-            btnYes.Visible = false;
-            btnNo.Visible = false;
-            this.Height = 100;
-            btnX.Visible = true;
+            Form2 f = new Form2();
+            f.ShowDialog();
+            
         }
-
+        Random myRandom = new Random();
         // No Button Event
         private void btnNo_Click(object sender, EventArgs e)
         {
-
             btnNo.Location = new Point(myRandom.Next(0, 200), myRandom.Next(0, 200));
-        }
-
-        // Close Event
-        private void btnX_Click(object sender, EventArgs e)
-        {
-            this.Close();
         }
     }
 }

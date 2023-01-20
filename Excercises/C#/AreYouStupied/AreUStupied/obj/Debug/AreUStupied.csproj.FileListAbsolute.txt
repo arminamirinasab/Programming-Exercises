@@ -7,3 +7,14 @@ C:\wamp\www\Programming Exercises\Excercises\C#\AreYouStupied\AreUStupied\obj\De
 C:\wamp\www\Programming Exercises\Excercises\C#\AreYouStupied\AreUStupied\obj\Debug\AreUStupied.exe
 C:\wamp\www\Programming Exercises\Excercises\C#\AreYouStupied\AreUStupied\obj\Debug\AreUStupied.pdb
 C:\wamp\www\Programming Exercises\Excercises\C#\AreYouStupied\AreUStupied\obj\Debug\AreUStupied.mainForm.resources
+C:\Codes\Programming Exercises\Excercises\C#\AreYouStupied\AreUStupied\bin\Debug\AreUStupied.exe.config
+C:\Codes\Programming Exercises\Excercises\C#\AreYouStupied\AreUStupied\bin\Debug\AreUStupied.exe
+C:\Codes\Programming Exercises\Excercises\C#\AreYouStupied\AreUStupied\bin\Debug\AreUStupied.pdb
+C:\Codes\Programming Exercises\Excercises\C#\AreYouStupied\AreUStupied\obj\Debug\AreUStupied.csproj.AssemblyReference.cache
+C:\Codes\Programming Exercises\Excercises\C#\AreYouStupied\AreUStupied\obj\Debug\AreUStupied.mainForm.resources
+C:\Codes\Programming Exercises\Excercises\C#\AreYouStupied\AreUStupied\obj\Debug\AreUStupied.Properties.Resources.resources
+C:\Codes\Programming Exercises\Excercises\C#\AreYouStupied\AreUStupied\obj\Debug\AreUStupied.csproj.GenerateResource.cache
+C:\Codes\Programming Exercises\Excercises\C#\AreYouStupied\AreUStupied\obj\Debug\AreUStupied.csproj.CoreCompileInputs.cache
+C:\Codes\Programming Exercises\Excercises\C#\AreYouStupied\AreUStupied\obj\Debug\AreUStupied.exe
+C:\Codes\Programming Exercises\Excercises\C#\AreYouStupied\AreUStupied\obj\Debug\AreUStupied.pdb
+C:\Codes\Programming Exercises\Excercises\C#\AreYouStupied\AreUStupied\obj\Debug\AreUStupied.Form2.resources
