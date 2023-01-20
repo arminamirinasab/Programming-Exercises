@@ -1,0 +1,17 @@
+C:\Codes\Programming Exercises\Excercises\C#\FavouriteLanguage\FavouriteLanguage\bin\Debug\net6.0-windows\FavouriteLanguage.exe
+C:\Codes\Programming Exercises\Excercises\C#\FavouriteLanguage\FavouriteLanguage\bin\Debug\net6.0-windows\FavouriteLanguage.deps.json
+C:\Codes\Programming Exercises\Excercises\C#\FavouriteLanguage\FavouriteLanguage\bin\Debug\net6.0-windows\FavouriteLanguage.runtimeconfig.json
+C:\Codes\Programming Exercises\Excercises\C#\FavouriteLanguage\FavouriteLanguage\bin\Debug\net6.0-windows\FavouriteLanguage.dll
+C:\Codes\Programming Exercises\Excercises\C#\FavouriteLanguage\FavouriteLanguage\bin\Debug\net6.0-windows\FavouriteLanguage.pdb
+C:\Codes\Programming Exercises\Excercises\C#\FavouriteLanguage\FavouriteLanguage\obj\Debug\net6.0-windows\FavouriteLanguage.csproj.AssemblyReference.cache
+C:\Codes\Programming Exercises\Excercises\C#\FavouriteLanguage\FavouriteLanguage\obj\Debug\net6.0-windows\FavouriteLanguage.Form1.resources
+C:\Codes\Programming Exercises\Excercises\C#\FavouriteLanguage\FavouriteLanguage\obj\Debug\net6.0-windows\FavouriteLanguage.csproj.GenerateResource.cache
+C:\Codes\Programming Exercises\Excercises\C#\FavouriteLanguage\FavouriteLanguage\obj\Debug\net6.0-windows\FavouriteLanguage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\Programming Exercises\Excercises\C#\FavouriteLanguage\FavouriteLanguage\obj\Debug\net6.0-windows\FavouriteLanguage.AssemblyInfoInputs.cache
+C:\Codes\Programming Exercises\Excercises\C#\FavouriteLanguage\FavouriteLanguage\obj\Debug\net6.0-windows\FavouriteLanguage.AssemblyInfo.cs
+C:\Codes\Programming Exercises\Excercises\C#\FavouriteLanguage\FavouriteLanguage\obj\Debug\net6.0-windows\FavouriteLanguage.csproj.CoreCompileInputs.cache
+C:\Codes\Programming Exercises\Excercises\C#\FavouriteLanguage\FavouriteLanguage\obj\Debug\net6.0-windows\FavouriteLanguage.dll
+C:\Codes\Programming Exercises\Excercises\C#\FavouriteLanguage\FavouriteLanguage\obj\Debug\net6.0-windows\refint\FavouriteLanguage.dll
+C:\Codes\Programming Exercises\Excercises\C#\FavouriteLanguage\FavouriteLanguage\obj\Debug\net6.0-windows\FavouriteLanguage.pdb
+C:\Codes\Programming Exercises\Excercises\C#\FavouriteLanguage\FavouriteLanguage\obj\Debug\net6.0-windows\FavouriteLanguage.genruntimeconfig.cache
+C:\Codes\Programming Exercises\Excercises\C#\FavouriteLanguage\FavouriteLanguage\obj\Debug\net6.0-windows\ref\FavouriteLanguage.dll
