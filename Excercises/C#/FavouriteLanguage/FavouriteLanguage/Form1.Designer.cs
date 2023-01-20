@@ -34,6 +34,7 @@
             this.btnMove = new System.Windows.Forms.Button();
             this.btnUndo = new System.Windows.Forms.Button();
             this.label2 = new System.Windows.Forms.Label();
+            this.btnClear = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -98,7 +99,7 @@
             // 
             // btnUndo
             // 
-            this.btnUndo.Location = new System.Drawing.Point(379, 269);
+            this.btnUndo.Location = new System.Drawing.Point(408, 269);
             this.btnUndo.Name = "btnUndo";
             this.btnUndo.Size = new System.Drawing.Size(110, 38);
             this.btnUndo.TabIndex = 4;
@@ -115,11 +116,22 @@
             this.label2.TabIndex = 5;
             this.label2.Text = "© Armin Amiri Nasab";
             // 
+            // btnClear
+            // 
+            this.btnClear.Location = new System.Drawing.Point(408, 225);
+            this.btnClear.Name = "btnClear";
+            this.btnClear.Size = new System.Drawing.Size(110, 38);
+            this.btnClear.TabIndex = 6;
+            this.btnClear.Text = "Clear";
+            this.btnClear.UseVisualStyleBackColor = true;
+            this.btnClear.Click += new System.EventHandler(this.btnClear_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 327);
+            this.Controls.Add(this.btnClear);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.btnUndo);
             this.Controls.Add(this.btnMove);
@@ -142,5 +154,6 @@
         private Button btnMove;
         private Button btnUndo;
         private Label label2;
+        private Button btnClear;
     }
 }

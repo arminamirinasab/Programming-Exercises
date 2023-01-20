@@ -37,5 +37,15 @@ namespace FavouriteLanguage
                 MessageBox.Show("Your Input Is Empty", "Empty Language", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
+
+        private void btnClear_Click(object sender, EventArgs e)
+        {
+            // Clear List Items
+            DialogResult clearConfirm = MessageBox.Show("Are You Sure To Clear List Items?" , "Clear List" , MessageBoxButtons.YesNo , MessageBoxIcon.Warning);
+            if(clearConfirm == DialogResult.Yes)
+            {
+                lstSelect.Items.Clear();
+            }
+        }
     }
 }
