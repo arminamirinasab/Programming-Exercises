@@ -1,0 +1,17 @@
+C:\Codes\Programming Exercises\Excercises\C#\MouseEvents\MouseEvents\bin\Debug\net6.0-windows\MouseEvents.exe
+C:\Codes\Programming Exercises\Excercises\C#\MouseEvents\MouseEvents\bin\Debug\net6.0-windows\MouseEvents.deps.json
+C:\Codes\Programming Exercises\Excercises\C#\MouseEvents\MouseEvents\bin\Debug\net6.0-windows\MouseEvents.runtimeconfig.json
+C:\Codes\Programming Exercises\Excercises\C#\MouseEvents\MouseEvents\bin\Debug\net6.0-windows\MouseEvents.dll
+C:\Codes\Programming Exercises\Excercises\C#\MouseEvents\MouseEvents\bin\Debug\net6.0-windows\MouseEvents.pdb
+C:\Codes\Programming Exercises\Excercises\C#\MouseEvents\MouseEvents\obj\Debug\net6.0-windows\MouseEvents.csproj.AssemblyReference.cache
+C:\Codes\Programming Exercises\Excercises\C#\MouseEvents\MouseEvents\obj\Debug\net6.0-windows\MouseEvents.Form1.resources
+C:\Codes\Programming Exercises\Excercises\C#\MouseEvents\MouseEvents\obj\Debug\net6.0-windows\MouseEvents.csproj.GenerateResource.cache
+C:\Codes\Programming Exercises\Excercises\C#\MouseEvents\MouseEvents\obj\Debug\net6.0-windows\MouseEvents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\Programming Exercises\Excercises\C#\MouseEvents\MouseEvents\obj\Debug\net6.0-windows\MouseEvents.AssemblyInfoInputs.cache
+C:\Codes\Programming Exercises\Excercises\C#\MouseEvents\MouseEvents\obj\Debug\net6.0-windows\MouseEvents.AssemblyInfo.cs
+C:\Codes\Programming Exercises\Excercises\C#\MouseEvents\MouseEvents\obj\Debug\net6.0-windows\MouseEvents.csproj.CoreCompileInputs.cache
+C:\Codes\Programming Exercises\Excercises\C#\MouseEvents\MouseEvents\obj\Debug\net6.0-windows\MouseEvents.dll
+C:\Codes\Programming Exercises\Excercises\C#\MouseEvents\MouseEvents\obj\Debug\net6.0-windows\refint\MouseEvents.dll
+C:\Codes\Programming Exercises\Excercises\C#\MouseEvents\MouseEvents\obj\Debug\net6.0-windows\MouseEvents.pdb
+C:\Codes\Programming Exercises\Excercises\C#\MouseEvents\MouseEvents\obj\Debug\net6.0-windows\MouseEvents.genruntimeconfig.cache
+C:\Codes\Programming Exercises\Excercises\C#\MouseEvents\MouseEvents\obj\Debug\net6.0-windows\ref\MouseEvents.dll
