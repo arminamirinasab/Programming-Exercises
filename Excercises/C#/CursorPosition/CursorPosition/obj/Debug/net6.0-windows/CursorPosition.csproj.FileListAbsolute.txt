@@ -1,0 +1,17 @@
+C:\Codes\Programming Exercises\Excercises\C#\CursorPosition\CursorPosition\bin\Debug\net6.0-windows\CursorPosition.exe
+C:\Codes\Programming Exercises\Excercises\C#\CursorPosition\CursorPosition\bin\Debug\net6.0-windows\CursorPosition.deps.json
+C:\Codes\Programming Exercises\Excercises\C#\CursorPosition\CursorPosition\bin\Debug\net6.0-windows\CursorPosition.runtimeconfig.json
+C:\Codes\Programming Exercises\Excercises\C#\CursorPosition\CursorPosition\bin\Debug\net6.0-windows\CursorPosition.dll
+C:\Codes\Programming Exercises\Excercises\C#\CursorPosition\CursorPosition\bin\Debug\net6.0-windows\CursorPosition.pdb
+C:\Codes\Programming Exercises\Excercises\C#\CursorPosition\CursorPosition\obj\Debug\net6.0-windows\CursorPosition.csproj.AssemblyReference.cache
+C:\Codes\Programming Exercises\Excercises\C#\CursorPosition\CursorPosition\obj\Debug\net6.0-windows\CursorPosition.Form1.resources
+C:\Codes\Programming Exercises\Excercises\C#\CursorPosition\CursorPosition\obj\Debug\net6.0-windows\CursorPosition.csproj.GenerateResource.cache
+C:\Codes\Programming Exercises\Excercises\C#\CursorPosition\CursorPosition\obj\Debug\net6.0-windows\CursorPosition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\Programming Exercises\Excercises\C#\CursorPosition\CursorPosition\obj\Debug\net6.0-windows\CursorPosition.AssemblyInfoInputs.cache
+C:\Codes\Programming Exercises\Excercises\C#\CursorPosition\CursorPosition\obj\Debug\net6.0-windows\CursorPosition.AssemblyInfo.cs
+C:\Codes\Programming Exercises\Excercises\C#\CursorPosition\CursorPosition\obj\Debug\net6.0-windows\CursorPosition.csproj.CoreCompileInputs.cache
+C:\Codes\Programming Exercises\Excercises\C#\CursorPosition\CursorPosition\obj\Debug\net6.0-windows\CursorPosition.dll
+C:\Codes\Programming Exercises\Excercises\C#\CursorPosition\CursorPosition\obj\Debug\net6.0-windows\refint\CursorPosition.dll
+C:\Codes\Programming Exercises\Excercises\C#\CursorPosition\CursorPosition\obj\Debug\net6.0-windows\CursorPosition.pdb
+C:\Codes\Programming Exercises\Excercises\C#\CursorPosition\CursorPosition\obj\Debug\net6.0-windows\CursorPosition.genruntimeconfig.cache
+C:\Codes\Programming Exercises\Excercises\C#\CursorPosition\CursorPosition\obj\Debug\net6.0-windows\ref\CursorPosition.dll
