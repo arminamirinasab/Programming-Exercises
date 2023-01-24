@@ -79,7 +79,7 @@
             this.lblH1.TabIndex = 1;
             this.lblH1.Text = "Shadow 1";
             this.lblH1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            this.lblH1.Click += new System.EventHandler(this.lblH1_Click);
+            this.lblH1.Click += new System.EventHandler(this.shadowHidden);
             // 
             // lblH2
             // 
@@ -94,7 +94,7 @@
             this.lblH2.TabIndex = 2;
             this.lblH2.Text = "Shadow 2";
             this.lblH2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            this.lblH2.Click += new System.EventHandler(this.lblH2_Click);
+            this.lblH2.Click += new System.EventHandler(this.shadowHidden);
             // 
             // lblH3
             // 
@@ -109,7 +109,7 @@
             this.lblH3.TabIndex = 3;
             this.lblH3.Text = "Shadow 3";
             this.lblH3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            this.lblH3.Click += new System.EventHandler(this.lblH3_Click);
+            this.lblH3.Click += new System.EventHandler(this.shadowHidden);
             // 
             // lblH4
             // 
@@ -124,7 +124,7 @@
             this.lblH4.TabIndex = 4;
             this.lblH4.Text = "Shadow 4";
             this.lblH4.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            this.lblH4.Click += new System.EventHandler(this.lblH4_Click);
+            this.lblH4.Click += new System.EventHandler(this.shadowHidden);
             // 
             // lblH7
             // 
@@ -139,7 +139,7 @@
             this.lblH7.TabIndex = 5;
             this.lblH7.Text = "Shadow 7";
             this.lblH7.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            this.lblH7.Click += new System.EventHandler(this.lblH7_Click);
+            this.lblH7.Click += new System.EventHandler(this.shadowHidden);
             // 
             // lblH5
             // 
@@ -154,7 +154,7 @@
             this.lblH5.TabIndex = 6;
             this.lblH5.Text = "Shadow 5";
             this.lblH5.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            this.lblH5.Click += new System.EventHandler(this.lblH5_Click);
+            this.lblH5.Click += new System.EventHandler(this.shadowHidden);
             // 
             // lblH6
             // 
@@ -169,7 +169,7 @@
             this.lblH6.TabIndex = 7;
             this.lblH6.Text = "Shadow 6";
             this.lblH6.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            this.lblH6.Click += new System.EventHandler(this.lblH6_Click);
+            this.lblH6.Click += new System.EventHandler(this.shadowHidden);
             // 
             // lblH9
             // 
@@ -184,7 +184,7 @@
             this.lblH9.TabIndex = 8;
             this.lblH9.Text = "Shadow 9";
             this.lblH9.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            this.lblH9.Click += new System.EventHandler(this.lblH9_Click);
+            this.lblH9.Click += new System.EventHandler(this.shadowHidden);
             // 
             // lblH8
             // 
@@ -199,7 +199,7 @@
             this.lblH8.TabIndex = 9;
             this.lblH8.Text = "Shadow 8";
             this.lblH8.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            this.lblH8.Click += new System.EventHandler(this.lblH8_Click);
+            this.lblH8.Click += new System.EventHandler(this.shadowHidden);
             // 
             // btnShowAnswer
             // 

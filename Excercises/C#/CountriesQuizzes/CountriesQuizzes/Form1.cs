@@ -53,83 +53,12 @@ namespace CountriesQuizzes
         int chance = 2;
 
         // Hidden Shadows
-        private void lblH1_Click(object sender, EventArgs e)
+        private void shadowHidden(object sender, EventArgs e)
         {
             if (!(chance <= 0))
             {
-                lblH1.Visible = false;
-                chance--;
-            }
-        }
-
-        private void lblH2_Click(object sender, EventArgs e)
-        {
-            if (!(chance <= 0))
-            {
-                lblH2.Visible = false;
-                chance--;
-            }
-        }
-
-        private void lblH3_Click(object sender, EventArgs e)
-        {
-            if (!(chance <= 0))
-            {
-                lblH3.Visible = false;
-                chance--;
-            }
-        }
-
-        private void lblH4_Click(object sender, EventArgs e)
-        {
-            if (!(chance <= 0))
-            {
-                lblH4.Visible = false;
-                chance--;
-            }
-        }
-
-        private void lblH5_Click(object sender, EventArgs e)
-        {
-            if (!(chance <= 0))
-            {
-                lblH5.Visible = false;
-                chance--;
-            }
-        }
-
-        private void lblH6_Click(object sender, EventArgs e)
-        {
-            if (!(chance <= 0))
-            {
-                lblH6.Visible = false;
-                chance--;
-            }
-        }
-
-        private void lblH7_Click(object sender, EventArgs e)
-        {
-            if (!(chance <= 0))
-            {
-                lblH7.Visible = false;
-                chance--;
-            }
-        }
-
-        private void lblH8_Click(object sender, EventArgs e)
-        {
-            if (!(chance <= 0))
-            {
-                lblH8.Visible = false;
-                chance--;
-            }
-        }
-
-        private void lblH9_Click(object sender, EventArgs e)
-        {
-            if (!(chance <= 0))
-            {
-                lblH9.Visible = false;
+                Label lblHide = (Label)sender;
+                lblHide.Visible = false;
                 chance--;
             }
         }
