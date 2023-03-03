@@ -1,0 +1,17 @@
+C:\Codes\Programming Exercises\Excercises\C#\SquareClickGame\SquareClickGame\bin\Debug\net6.0-windows\SquareClickGame.exe
+C:\Codes\Programming Exercises\Excercises\C#\SquareClickGame\SquareClickGame\bin\Debug\net6.0-windows\SquareClickGame.deps.json
+C:\Codes\Programming Exercises\Excercises\C#\SquareClickGame\SquareClickGame\bin\Debug\net6.0-windows\SquareClickGame.runtimeconfig.json
+C:\Codes\Programming Exercises\Excercises\C#\SquareClickGame\SquareClickGame\bin\Debug\net6.0-windows\SquareClickGame.dll
+C:\Codes\Programming Exercises\Excercises\C#\SquareClickGame\SquareClickGame\bin\Debug\net6.0-windows\SquareClickGame.pdb
+C:\Codes\Programming Exercises\Excercises\C#\SquareClickGame\SquareClickGame\obj\Debug\net6.0-windows\SquareClickGame.csproj.AssemblyReference.cache
+C:\Codes\Programming Exercises\Excercises\C#\SquareClickGame\SquareClickGame\obj\Debug\net6.0-windows\SquareClickGame.Form1.resources
+C:\Codes\Programming Exercises\Excercises\C#\SquareClickGame\SquareClickGame\obj\Debug\net6.0-windows\SquareClickGame.csproj.GenerateResource.cache
+C:\Codes\Programming Exercises\Excercises\C#\SquareClickGame\SquareClickGame\obj\Debug\net6.0-windows\SquareClickGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\Programming Exercises\Excercises\C#\SquareClickGame\SquareClickGame\obj\Debug\net6.0-windows\SquareClickGame.AssemblyInfoInputs.cache
+C:\Codes\Programming Exercises\Excercises\C#\SquareClickGame\SquareClickGame\obj\Debug\net6.0-windows\SquareClickGame.AssemblyInfo.cs
+C:\Codes\Programming Exercises\Excercises\C#\SquareClickGame\SquareClickGame\obj\Debug\net6.0-windows\SquareClickGame.csproj.CoreCompileInputs.cache
+C:\Codes\Programming Exercises\Excercises\C#\SquareClickGame\SquareClickGame\obj\Debug\net6.0-windows\SquareClickGame.dll
+C:\Codes\Programming Exercises\Excercises\C#\SquareClickGame\SquareClickGame\obj\Debug\net6.0-windows\refint\SquareClickGame.dll
+C:\Codes\Programming Exercises\Excercises\C#\SquareClickGame\SquareClickGame\obj\Debug\net6.0-windows\SquareClickGame.pdb
+C:\Codes\Programming Exercises\Excercises\C#\SquareClickGame\SquareClickGame\obj\Debug\net6.0-windows\SquareClickGame.genruntimeconfig.cache
+C:\Codes\Programming Exercises\Excercises\C#\SquareClickGame\SquareClickGame\obj\Debug\net6.0-windows\ref\SquareClickGame.dll
