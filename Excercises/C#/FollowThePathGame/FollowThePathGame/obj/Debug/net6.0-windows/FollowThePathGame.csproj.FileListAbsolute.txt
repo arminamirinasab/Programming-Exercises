@@ -1,0 +1,17 @@
+C:\Codes\Programming Exercises\Excercises\C#\FollowThePathGame\FollowThePathGame\bin\Debug\net6.0-windows\FollowThePathGame.exe
+C:\Codes\Programming Exercises\Excercises\C#\FollowThePathGame\FollowThePathGame\bin\Debug\net6.0-windows\FollowThePathGame.deps.json
+C:\Codes\Programming Exercises\Excercises\C#\FollowThePathGame\FollowThePathGame\bin\Debug\net6.0-windows\FollowThePathGame.runtimeconfig.json
+C:\Codes\Programming Exercises\Excercises\C#\FollowThePathGame\FollowThePathGame\bin\Debug\net6.0-windows\FollowThePathGame.dll
+C:\Codes\Programming Exercises\Excercises\C#\FollowThePathGame\FollowThePathGame\bin\Debug\net6.0-windows\FollowThePathGame.pdb
+C:\Codes\Programming Exercises\Excercises\C#\FollowThePathGame\FollowThePathGame\obj\Debug\net6.0-windows\FollowThePathGame.csproj.AssemblyReference.cache
+C:\Codes\Programming Exercises\Excercises\C#\FollowThePathGame\FollowThePathGame\obj\Debug\net6.0-windows\FollowThePathGame.Form1.resources
+C:\Codes\Programming Exercises\Excercises\C#\FollowThePathGame\FollowThePathGame\obj\Debug\net6.0-windows\FollowThePathGame.csproj.GenerateResource.cache
+C:\Codes\Programming Exercises\Excercises\C#\FollowThePathGame\FollowThePathGame\obj\Debug\net6.0-windows\FollowThePathGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\Programming Exercises\Excercises\C#\FollowThePathGame\FollowThePathGame\obj\Debug\net6.0-windows\FollowThePathGame.AssemblyInfoInputs.cache
+C:\Codes\Programming Exercises\Excercises\C#\FollowThePathGame\FollowThePathGame\obj\Debug\net6.0-windows\FollowThePathGame.AssemblyInfo.cs
+C:\Codes\Programming Exercises\Excercises\C#\FollowThePathGame\FollowThePathGame\obj\Debug\net6.0-windows\FollowThePathGame.csproj.CoreCompileInputs.cache
+C:\Codes\Programming Exercises\Excercises\C#\FollowThePathGame\FollowThePathGame\obj\Debug\net6.0-windows\FollowThePathGame.dll
+C:\Codes\Programming Exercises\Excercises\C#\FollowThePathGame\FollowThePathGame\obj\Debug\net6.0-windows\refint\FollowThePathGame.dll
+C:\Codes\Programming Exercises\Excercises\C#\FollowThePathGame\FollowThePathGame\obj\Debug\net6.0-windows\FollowThePathGame.pdb
+C:\Codes\Programming Exercises\Excercises\C#\FollowThePathGame\FollowThePathGame\obj\Debug\net6.0-windows\FollowThePathGame.genruntimeconfig.cache
+C:\Codes\Programming Exercises\Excercises\C#\FollowThePathGame\FollowThePathGame\obj\Debug\net6.0-windows\ref\FollowThePathGame.dll
