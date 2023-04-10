@@ -1,0 +1,17 @@
+C:\Codes\Programming Exercises\Excercises\C#\ASCIICode\ASCIICode\bin\Debug\net6.0-windows\ASCIICode.exe
+C:\Codes\Programming Exercises\Excercises\C#\ASCIICode\ASCIICode\bin\Debug\net6.0-windows\ASCIICode.deps.json
+C:\Codes\Programming Exercises\Excercises\C#\ASCIICode\ASCIICode\bin\Debug\net6.0-windows\ASCIICode.runtimeconfig.json
+C:\Codes\Programming Exercises\Excercises\C#\ASCIICode\ASCIICode\bin\Debug\net6.0-windows\ASCIICode.dll
+C:\Codes\Programming Exercises\Excercises\C#\ASCIICode\ASCIICode\bin\Debug\net6.0-windows\ASCIICode.pdb
+C:\Codes\Programming Exercises\Excercises\C#\ASCIICode\ASCIICode\obj\Debug\net6.0-windows\ASCIICode.csproj.AssemblyReference.cache
+C:\Codes\Programming Exercises\Excercises\C#\ASCIICode\ASCIICode\obj\Debug\net6.0-windows\ASCIICode.Form1.resources
+C:\Codes\Programming Exercises\Excercises\C#\ASCIICode\ASCIICode\obj\Debug\net6.0-windows\ASCIICode.csproj.GenerateResource.cache
+C:\Codes\Programming Exercises\Excercises\C#\ASCIICode\ASCIICode\obj\Debug\net6.0-windows\ASCIICode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\Programming Exercises\Excercises\C#\ASCIICode\ASCIICode\obj\Debug\net6.0-windows\ASCIICode.AssemblyInfoInputs.cache
+C:\Codes\Programming Exercises\Excercises\C#\ASCIICode\ASCIICode\obj\Debug\net6.0-windows\ASCIICode.AssemblyInfo.cs
+C:\Codes\Programming Exercises\Excercises\C#\ASCIICode\ASCIICode\obj\Debug\net6.0-windows\ASCIICode.csproj.CoreCompileInputs.cache
+C:\Codes\Programming Exercises\Excercises\C#\ASCIICode\ASCIICode\obj\Debug\net6.0-windows\ASCIICode.dll
+C:\Codes\Programming Exercises\Excercises\C#\ASCIICode\ASCIICode\obj\Debug\net6.0-windows\refint\ASCIICode.dll
+C:\Codes\Programming Exercises\Excercises\C#\ASCIICode\ASCIICode\obj\Debug\net6.0-windows\ASCIICode.pdb
+C:\Codes\Programming Exercises\Excercises\C#\ASCIICode\ASCIICode\obj\Debug\net6.0-windows\ASCIICode.genruntimeconfig.cache
+C:\Codes\Programming Exercises\Excercises\C#\ASCIICode\ASCIICode\obj\Debug\net6.0-windows\ref\ASCIICode.dll
