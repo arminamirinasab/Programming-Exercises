@@ -1,0 +1,17 @@
+C:\Codes\Programming Exercises\Excercises\C#\FindReplace\FindReplace\bin\Debug\net6.0-windows\FindReplace.exe
+C:\Codes\Programming Exercises\Excercises\C#\FindReplace\FindReplace\bin\Debug\net6.0-windows\FindReplace.deps.json
+C:\Codes\Programming Exercises\Excercises\C#\FindReplace\FindReplace\bin\Debug\net6.0-windows\FindReplace.runtimeconfig.json
+C:\Codes\Programming Exercises\Excercises\C#\FindReplace\FindReplace\bin\Debug\net6.0-windows\FindReplace.dll
+C:\Codes\Programming Exercises\Excercises\C#\FindReplace\FindReplace\bin\Debug\net6.0-windows\FindReplace.pdb
+C:\Codes\Programming Exercises\Excercises\C#\FindReplace\FindReplace\obj\Debug\net6.0-windows\FindReplace.csproj.AssemblyReference.cache
+C:\Codes\Programming Exercises\Excercises\C#\FindReplace\FindReplace\obj\Debug\net6.0-windows\FindReplace.Form1.resources
+C:\Codes\Programming Exercises\Excercises\C#\FindReplace\FindReplace\obj\Debug\net6.0-windows\FindReplace.csproj.GenerateResource.cache
+C:\Codes\Programming Exercises\Excercises\C#\FindReplace\FindReplace\obj\Debug\net6.0-windows\FindReplace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\Programming Exercises\Excercises\C#\FindReplace\FindReplace\obj\Debug\net6.0-windows\FindReplace.AssemblyInfoInputs.cache
+C:\Codes\Programming Exercises\Excercises\C#\FindReplace\FindReplace\obj\Debug\net6.0-windows\FindReplace.AssemblyInfo.cs
+C:\Codes\Programming Exercises\Excercises\C#\FindReplace\FindReplace\obj\Debug\net6.0-windows\FindReplace.csproj.CoreCompileInputs.cache
+C:\Codes\Programming Exercises\Excercises\C#\FindReplace\FindReplace\obj\Debug\net6.0-windows\FindReplace.dll
+C:\Codes\Programming Exercises\Excercises\C#\FindReplace\FindReplace\obj\Debug\net6.0-windows\refint\FindReplace.dll
+C:\Codes\Programming Exercises\Excercises\C#\FindReplace\FindReplace\obj\Debug\net6.0-windows\FindReplace.pdb
+C:\Codes\Programming Exercises\Excercises\C#\FindReplace\FindReplace\obj\Debug\net6.0-windows\FindReplace.genruntimeconfig.cache
+C:\Codes\Programming Exercises\Excercises\C#\FindReplace\FindReplace\obj\Debug\net6.0-windows\ref\FindReplace.dll
