@@ -1,0 +1,15 @@
+C:\Codes\Programming Exercises\Excercises\C#\CalculateLife\CalculateLife\bin\Debug\net6.0\CalculateLife.exe
+C:\Codes\Programming Exercises\Excercises\C#\CalculateLife\CalculateLife\bin\Debug\net6.0\CalculateLife.deps.json
+C:\Codes\Programming Exercises\Excercises\C#\CalculateLife\CalculateLife\bin\Debug\net6.0\CalculateLife.runtimeconfig.json
+C:\Codes\Programming Exercises\Excercises\C#\CalculateLife\CalculateLife\bin\Debug\net6.0\CalculateLife.dll
+C:\Codes\Programming Exercises\Excercises\C#\CalculateLife\CalculateLife\bin\Debug\net6.0\CalculateLife.pdb
+C:\Codes\Programming Exercises\Excercises\C#\CalculateLife\CalculateLife\obj\Debug\net6.0\CalculateLife.csproj.AssemblyReference.cache
+C:\Codes\Programming Exercises\Excercises\C#\CalculateLife\CalculateLife\obj\Debug\net6.0\CalculateLife.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\Programming Exercises\Excercises\C#\CalculateLife\CalculateLife\obj\Debug\net6.0\CalculateLife.AssemblyInfoInputs.cache
+C:\Codes\Programming Exercises\Excercises\C#\CalculateLife\CalculateLife\obj\Debug\net6.0\CalculateLife.AssemblyInfo.cs
+C:\Codes\Programming Exercises\Excercises\C#\CalculateLife\CalculateLife\obj\Debug\net6.0\CalculateLife.csproj.CoreCompileInputs.cache
+C:\Codes\Programming Exercises\Excercises\C#\CalculateLife\CalculateLife\obj\Debug\net6.0\CalculateLife.dll
+C:\Codes\Programming Exercises\Excercises\C#\CalculateLife\CalculateLife\obj\Debug\net6.0\refint\CalculateLife.dll
+C:\Codes\Programming Exercises\Excercises\C#\CalculateLife\CalculateLife\obj\Debug\net6.0\CalculateLife.pdb
+C:\Codes\Programming Exercises\Excercises\C#\CalculateLife\CalculateLife\obj\Debug\net6.0\CalculateLife.genruntimeconfig.cache
+C:\Codes\Programming Exercises\Excercises\C#\CalculateLife\CalculateLife\obj\Debug\net6.0\ref\CalculateLife.dll

@@ -1,0 +1,17 @@
+C:\Codes\Programming Exercises\Excercises\C#\SaveText\SaveText\bin\Debug\net6.0-windows\SaveText.exe
+C:\Codes\Programming Exercises\Excercises\C#\SaveText\SaveText\bin\Debug\net6.0-windows\SaveText.deps.json
+C:\Codes\Programming Exercises\Excercises\C#\SaveText\SaveText\bin\Debug\net6.0-windows\SaveText.runtimeconfig.json
+C:\Codes\Programming Exercises\Excercises\C#\SaveText\SaveText\bin\Debug\net6.0-windows\SaveText.dll
+C:\Codes\Programming Exercises\Excercises\C#\SaveText\SaveText\bin\Debug\net6.0-windows\SaveText.pdb
+C:\Codes\Programming Exercises\Excercises\C#\SaveText\SaveText\obj\Debug\net6.0-windows\SaveText.csproj.AssemblyReference.cache
+C:\Codes\Programming Exercises\Excercises\C#\SaveText\SaveText\obj\Debug\net6.0-windows\SaveText.Form1.resources
+C:\Codes\Programming Exercises\Excercises\C#\SaveText\SaveText\obj\Debug\net6.0-windows\SaveText.csproj.GenerateResource.cache
+C:\Codes\Programming Exercises\Excercises\C#\SaveText\SaveText\obj\Debug\net6.0-windows\SaveText.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\Programming Exercises\Excercises\C#\SaveText\SaveText\obj\Debug\net6.0-windows\SaveText.AssemblyInfoInputs.cache
+C:\Codes\Programming Exercises\Excercises\C#\SaveText\SaveText\obj\Debug\net6.0-windows\SaveText.AssemblyInfo.cs
+C:\Codes\Programming Exercises\Excercises\C#\SaveText\SaveText\obj\Debug\net6.0-windows\SaveText.csproj.CoreCompileInputs.cache
+C:\Codes\Programming Exercises\Excercises\C#\SaveText\SaveText\obj\Debug\net6.0-windows\SaveText.dll
+C:\Codes\Programming Exercises\Excercises\C#\SaveText\SaveText\obj\Debug\net6.0-windows\refint\SaveText.dll
+C:\Codes\Programming Exercises\Excercises\C#\SaveText\SaveText\obj\Debug\net6.0-windows\SaveText.pdb
+C:\Codes\Programming Exercises\Excercises\C#\SaveText\SaveText\obj\Debug\net6.0-windows\SaveText.genruntimeconfig.cache
+C:\Codes\Programming Exercises\Excercises\C#\SaveText\SaveText\obj\Debug\net6.0-windows\ref\SaveText.dll
