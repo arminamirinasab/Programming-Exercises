@@ -1,0 +1,11 @@
+C:\Codes\Programming Exercises\Excercises\C#\ContactsWithDB\ContactsWithDB\bin\Debug\ContactsWithDB.exe.config
+C:\Codes\Programming Exercises\Excercises\C#\ContactsWithDB\ContactsWithDB\bin\Debug\ContactsWithDB.exe
+C:\Codes\Programming Exercises\Excercises\C#\ContactsWithDB\ContactsWithDB\bin\Debug\ContactsWithDB.pdb
+C:\Codes\Programming Exercises\Excercises\C#\ContactsWithDB\ContactsWithDB\obj\Debug\ContactsWithDB.Form1.resources
+C:\Codes\Programming Exercises\Excercises\C#\ContactsWithDB\ContactsWithDB\obj\Debug\ContactsWithDB.Form2.resources
+C:\Codes\Programming Exercises\Excercises\C#\ContactsWithDB\ContactsWithDB\obj\Debug\ContactsWithDB.Properties.Resources.resources
+C:\Codes\Programming Exercises\Excercises\C#\ContactsWithDB\ContactsWithDB\obj\Debug\ContactsWithDB.csproj.GenerateResource.Cache
+C:\Codes\Programming Exercises\Excercises\C#\ContactsWithDB\ContactsWithDB\obj\Debug\ContactsWithDB.exe
+C:\Codes\Programming Exercises\Excercises\C#\ContactsWithDB\ContactsWithDB\obj\Debug\ContactsWithDB.pdb
+C:\Codes\Programming Exercises\Excercises\C#\ContactsWithDB\ContactsWithDB\obj\Debug\ContactsWithDB.csprojResolveAssemblyReference.cache
+C:\Codes\Programming Exercises\Excercises\C#\ContactsWithDB\ContactsWithDB\bin\Debug\contacts1.mdb

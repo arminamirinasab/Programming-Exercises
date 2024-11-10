@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Github\\Programming Exercises\\Excercises\\C#\\Crush50$\\Crush50$\\CrushMoney.csproj",
+      "projectUniqueName": "C:\\Codes\\Programming Exercises\\Excercises\\C#\\ConsoleCrushMoney\\Crush50$\\CrushMoney.csproj",
       "projectName": "CrushMoney",
-      "projectPath": "C:\\Github\\Programming Exercises\\Excercises\\C#\\Crush50$\\Crush50$\\CrushMoney.csproj",
+      "projectPath": "C:\\Codes\\Programming Exercises\\Excercises\\C#\\ConsoleCrushMoney\\Crush50$\\CrushMoney.csproj",
       "packagesPath": "C:\\Users\\armin\\.nuget\\packages\\",
-      "outputPath": "C:\\Github\\Programming Exercises\\Excercises\\C#\\Crush50$\\Crush50$\\obj\\",
+      "outputPath": "C:\\Codes\\Programming Exercises\\Excercises\\C#\\ConsoleCrushMoney\\Crush50$\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\armin\\AppData\\Roaming\\NuGet\\NuGet.Config",

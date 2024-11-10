@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Codes\\Programming Exercises\\Excercises\\C#\\SquareClickGame\\SquareClickGame\\SquareClickGame.csproj",
+      "projectUniqueName": "E:\\Codes\\Programming Exercises\\Excercises\\C#\\SquareClickGame\\SquareClickGame\\SquareClickGame.csproj",
       "projectName": "SquareClickGame",
-      "projectPath": "C:\\Codes\\Programming Exercises\\Excercises\\C#\\SquareClickGame\\SquareClickGame\\SquareClickGame.csproj",
+      "projectPath": "E:\\Codes\\Programming Exercises\\Excercises\\C#\\SquareClickGame\\SquareClickGame\\SquareClickGame.csproj",
       "packagesPath": "C:\\Users\\armin\\.nuget\\packages\\",
-      "outputPath": "C:\\Codes\\Programming Exercises\\Excercises\\C#\\SquareClickGame\\SquareClickGame\\obj\\",
+      "outputPath": "E:\\Codes\\Programming Exercises\\Excercises\\C#\\SquareClickGame\\SquareClickGame\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\armin\\AppData\\Roaming\\NuGet\\NuGet.Config",

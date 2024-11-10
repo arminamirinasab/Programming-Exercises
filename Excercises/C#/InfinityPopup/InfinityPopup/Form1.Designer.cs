@@ -35,12 +35,12 @@
             // infinite
             // 
             this.infinite.Enabled = true;
-            this.infinite.Interval = 5000;
+            this.infinite.Interval = 10;
             this.infinite.Tick += new System.EventHandler(this.infinite_Tick);
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 23F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(0, 0);
             this.ControlBox = false;

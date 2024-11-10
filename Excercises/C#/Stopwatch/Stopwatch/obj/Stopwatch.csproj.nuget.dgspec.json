@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Codes\\Programming Exercises\\Excercises\\C#\\Stopwatch\\Stopwatch\\Stopwatch.csproj": {}
+    "E:\\Codes\\Programming Exercises\\Excercises\\C#\\Stopwatch\\Stopwatch\\Stopwatch.csproj": {}
   },
   "projects": {
-    "C:\\Codes\\Programming Exercises\\Excercises\\C#\\Stopwatch\\Stopwatch\\Stopwatch.csproj": {
+    "E:\\Codes\\Programming Exercises\\Excercises\\C#\\Stopwatch\\Stopwatch\\Stopwatch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Codes\\Programming Exercises\\Excercises\\C#\\Stopwatch\\Stopwatch\\Stopwatch.csproj",
+        "projectUniqueName": "E:\\Codes\\Programming Exercises\\Excercises\\C#\\Stopwatch\\Stopwatch\\Stopwatch.csproj",
         "projectName": "Stopwatch",
-        "projectPath": "C:\\Codes\\Programming Exercises\\Excercises\\C#\\Stopwatch\\Stopwatch\\Stopwatch.csproj",
+        "projectPath": "E:\\Codes\\Programming Exercises\\Excercises\\C#\\Stopwatch\\Stopwatch\\Stopwatch.csproj",
         "packagesPath": "C:\\Users\\armin\\.nuget\\packages\\",
-        "outputPath": "C:\\Codes\\Programming Exercises\\Excercises\\C#\\Stopwatch\\Stopwatch\\obj\\",
+        "outputPath": "E:\\Codes\\Programming Exercises\\Excercises\\C#\\Stopwatch\\Stopwatch\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\armin\\AppData\\Roaming\\NuGet\\NuGet.Config",

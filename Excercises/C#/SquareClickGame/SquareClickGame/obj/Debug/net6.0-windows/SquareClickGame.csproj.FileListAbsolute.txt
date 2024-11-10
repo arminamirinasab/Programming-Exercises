@@ -15,3 +15,14 @@ C:\Codes\Programming Exercises\Excercises\C#\SquareClickGame\SquareClickGame\obj
 C:\Codes\Programming Exercises\Excercises\C#\SquareClickGame\SquareClickGame\obj\Debug\net6.0-windows\SquareClickGame.pdb
 C:\Codes\Programming Exercises\Excercises\C#\SquareClickGame\SquareClickGame\obj\Debug\net6.0-windows\SquareClickGame.genruntimeconfig.cache
 C:\Codes\Programming Exercises\Excercises\C#\SquareClickGame\SquareClickGame\obj\Debug\net6.0-windows\ref\SquareClickGame.dll
+E:\Codes\Programming Exercises\Excercises\C#\SquareClickGame\SquareClickGame\bin\Debug\net6.0-windows\SquareClickGame.exe
+E:\Codes\Programming Exercises\Excercises\C#\SquareClickGame\SquareClickGame\obj\Debug\net6.0-windows\SquareClickGame.csproj.AssemblyReference.cache
+E:\Codes\Programming Exercises\Excercises\C#\SquareClickGame\SquareClickGame\obj\Debug\net6.0-windows\SquareClickGame.Form1.resources
+E:\Codes\Programming Exercises\Excercises\C#\SquareClickGame\SquareClickGame\obj\Debug\net6.0-windows\SquareClickGame.csproj.GenerateResource.cache
+E:\Codes\Programming Exercises\Excercises\C#\SquareClickGame\SquareClickGame\obj\Debug\net6.0-windows\SquareClickGame.GeneratedMSBuildEditorConfig.editorconfig
+E:\Codes\Programming Exercises\Excercises\C#\SquareClickGame\SquareClickGame\obj\Debug\net6.0-windows\SquareClickGame.AssemblyInfoInputs.cache
+E:\Codes\Programming Exercises\Excercises\C#\SquareClickGame\SquareClickGame\obj\Debug\net6.0-windows\SquareClickGame.AssemblyInfo.cs
+E:\Codes\Programming Exercises\Excercises\C#\SquareClickGame\SquareClickGame\obj\Debug\net6.0-windows\SquareClickGame.csproj.CoreCompileInputs.cache
+E:\Codes\Programming Exercises\Excercises\C#\SquareClickGame\SquareClickGame\obj\Debug\net6.0-windows\SquareClickGame.dll
+E:\Codes\Programming Exercises\Excercises\C#\SquareClickGame\SquareClickGame\obj\Debug\net6.0-windows\refint\SquareClickGame.dll
+E:\Codes\Programming Exercises\Excercises\C#\SquareClickGame\SquareClickGame\obj\Debug\net6.0-windows\SquareClickGame.pdb
