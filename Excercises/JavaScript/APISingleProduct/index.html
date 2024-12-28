@@ -1,0 +1,94 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Single Product API</title>
+    <link rel="stylesheet" href="./css/style.css" />
+  </head>
+  <body>
+    <nav class="flex-nav">
+      <div class="container">
+        <div class="grid menu">
+          <div class="column-xs-8 column-md-6">
+            <p id="highlight">Get Single Product from Fake Store API</p>
+          </div>
+          <div class="column-xs-4 column-md-6">
+            <a href="#" class="toggle-nav">Menu <i class="ion-navicon-round"></i></a>
+            <ul>
+              <li class="nav-item"><a href="https://github.com/arminamirinasab/Programming-Exercises">Repasitory</a></li>
+              <li class="nav-item"><a href="https://github.com/arminamirinasab/">Github</a></li>
+              <li class="nav-item"><a href="https://linkedin.com/in/arminamirinasab/">Linkedin</a></li>
+              <li class="nav-item"><a href="https://instagram.com/arminamirinasab/">Instagram</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </nav>
+    <main>
+      <div class="container">
+        <div class="grid second-nav">
+          <div class="column-xs-12">
+            <nav>
+              <ol class="breadcrumb-list">
+                <li class="breadcrumb-item"><a href="#">Home</a></li>
+                <li id="breadCategory" class="breadcrumb-item"><a href="#"> Category ...</a></li>
+                <li id="breadTitle" class="breadcrumb-item active">Product ...</li>
+              </ol>
+            </nav>
+          </div>
+        </div>
+        <div class="grid product">
+          <div class="column-xs-12 column-md-7">
+            <div class="product-gallery">
+              <div class="product-image">
+                <img id="singleImage" class="active" />
+              </div>
+              <!-- <ul class="image-list">
+                <li class="image-item"><img src="https://source.unsplash.com/W1yjvf5idqA" /></li>
+                <li class="image-item"><img src="https://source.unsplash.com/VgbUxvW3gS4" /></li>
+                <li class="image-item"><img src="https://source.unsplash.com/5WbYFH0kf_8" /></li>
+              </ul> -->
+            </div>
+          </div>
+          <div class="column-xs-12 column-md-5">
+            <h1 id="singleTitle">Loading ...</h1>
+            <h2 id="singlePrice">$ ...</h2>
+            <div class="description" id="singleDescription">
+              Please wait for load data from API
+            </div>
+            <button class="add-to-cart">Add To Cart</button>
+          </div>
+        </div>
+        <div id="releated" class="grid related-products">
+          <div class="column-xs-12">
+            <h3>You may also like</h3>
+          </div>
+        </div>
+      </div>
+    </main>
+    <footer>
+      <div class="grid">
+        <div class="column-xs-12">
+          <p class="copyright">&copy; 2024 <a href="https://github.com/arminamirinasab/" title="Armin Amiri Nasab" target="_blank">Armin Amiri Nasab</a> from Katherine Kato</p>
+        </div>
+      </div>
+    </footer>
+    <script>
+      const activeImage = document.querySelector(".product-image .active");
+      const productImages = document.querySelectorAll(".image-list img");
+      const navItem = document.querySelector("a.toggle-nav");
+
+      function changeImage(e) {
+        activeImage.src = e.target.src;
+      }
+
+      function toggleNavigation() {
+        this.nextElementSibling.classList.toggle("active");
+      }
+
+      productImages.forEach((image) => image.addEventListener("click", changeImage));
+      navItem.addEventListener("click", toggleNavigation);
+    </script>
+    <script src="./js/main.js"></script>
+  </body>
+</html>
