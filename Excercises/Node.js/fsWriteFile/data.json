@@ -1,0 +1,39 @@
+[
+  {
+    "title": "The Little Prince",
+    "author": "Antoine de Saint-Exupéry",
+    "translator": "Abolhassan Najafi",
+    "publisher": "Amir Kabir Publications",
+    "year": 1943,
+    "pages": 128
+  },
+  {
+    "title": "Klidar",
+    "author": "Mohammad Ali Jamalzadeh",
+    "publisher": "Amir Kabir Publications",
+    "year": 1932,
+    "pages": 240
+  },
+  {
+    "title": "My Uncle Napoleon",
+    "author": "Iraj Pezeshkzad",
+    "publisher": "Amir Kabir Publications",
+    "year": 1973,
+    "pages": 320
+  },
+  {
+    "title": "The Travels of Ibn Battuta",
+    "author": "Ibn Battuta",
+    "translator": "Mohammad Ali Movahed",
+    "publisher": "Amir Kabir Publications",
+    "year": 1973,
+    "pages": 512
+  },
+  {
+    "title": "Rostam and Sohrab",
+    "author": "Ferdowsi",
+    "publisher": "Amir Kabir Publications",
+    "year": 1010,
+    "pages": 160
+  }
+]
