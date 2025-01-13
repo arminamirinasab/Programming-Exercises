@@ -1,0 +1,1 @@
+This is a simple text read by Node.js from a text file.

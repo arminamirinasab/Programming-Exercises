@@ -1,0 +1,117 @@
+[
+  {
+    "name": "BMW",
+    "models": [
+      {
+        "name": "BMW 3 Series",
+        "year": 2022,
+        "engine": "2.0L Turbo",
+        "price": 35000
+      },
+      {
+        "name": "BMW 5 Series",
+        "year": 2022,
+        "engine": "3.0L Turbo",
+        "price": 45000
+      },
+      {
+        "name": "BMW X5",
+        "year": 2022,
+        "engine": "3.0L Turbo",
+        "price": 55000
+      }
+    ]
+  },
+  {
+    "name": "Benz",
+    "models": [
+      {
+        "name": "Mercedes-Benz C-Class",
+        "year": 2022,
+        "engine": "2.0L Turbo",
+        "price": 32000
+      },
+      {
+        "name": "Mercedes-Benz E-Class",
+        "year": 2022,
+        "engine": "3.0L Turbo",
+        "price": 42000
+      },
+      {
+        "name": "Mercedes-Benz GLE",
+        "year": 2022,
+        "engine": "3.0L Turbo",
+        "price": 52000
+      }
+    ]
+  },
+  {
+    "name": "Nissan",
+    "models": [
+      {
+        "name": "Nissan Altima",
+        "year": 2022,
+        "engine": "2.5L",
+        "price": 25000
+      },
+      {
+        "name": "Nissan Maxima",
+        "year": 2022,
+        "engine": "3.5L V6",
+        "price": 35000
+      },
+      {
+        "name": "Nissan Rogue",
+        "year": 2022,
+        "engine": "2.5L",
+        "price": 28000
+      }
+    ]
+  },
+  {
+    "name": "Ford",
+    "models": [
+      {
+        "name": "Ford Mustang",
+        "year": 2022,
+        "engine": "2.3L Turbo",
+        "price": 26000
+      },
+      {
+        "name": "Ford F-150",
+        "year": 2022,
+        "engine": "3.5L V6",
+        "price": 32000
+      },
+      {
+        "name": "Ford Explorer",
+        "year": 2022,
+        "engine": "3.3L V6",
+        "price": 30000
+      }
+    ]
+  },
+  {
+    "name": "Chevrolet",
+    "models": [
+      {
+        "name": "Chevrolet Camaro",
+        "year": 2022,
+        "engine": "2.0L Turbo",
+        "price": 25000
+      },
+      {
+        "name": "Chevrolet Silverado",
+        "year": 2022,
+        "engine": "4.3L V6",
+        "price": 30000
+      },
+      {
+        "name": "Chevrolet Equinox",
+        "year": 2022,
+        "engine": "1.5L Turbo",
+        "price": 23000
+      }
+    ]
+  }
+]
