@@ -1,0 +1,6 @@
+[
+  { "method": "GET", "status_code": "null", "status_message": "null", "host": "localhost:3000", "date": "1/14/2025, 12:38:07 PM", "query": "{}", "full_url": "localhost:3000/" },
+  { "method": "GET", "status_code": "null", "status_message": "null", "host": "localhost:3000", "date": "1/14/2025, 12:38:20 PM", "query": "{\"id\":\"3\"}", "full_url": "localhost:3000/images?id=3" },
+  { "method": "DELETE", "status_code": "null", "status_message": "null", "host": "localhost:3000", "date": "1/14/2025, 12:38:36 PM", "query": "{\"id\":\"9\"}", "full_url": "localhost:3000/posts?id=9" },
+  { "method": "POST", "status_code": "null", "status_message": "null", "host": "localhost:3000", "date": "1/14/2025, 12:39:59 PM", "query": "{\"username\":\"arminamirinasab\",\"password\":\"myfakepass\"}", "full_url": "localhost:3000/users?username=arminamirinasab&password=myfakepass" }
+]
